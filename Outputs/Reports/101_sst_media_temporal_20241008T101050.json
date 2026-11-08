@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "arquivo": "nb_8542_2024-10-08T10_10_50_10_10_50=0-9_stokes_corrected_export2026-01-26T14_51_16_im.fits",
+      "n_varreduras": 10,
+      "s_teorico_G": 24.32229684344482,
+      "por_N": [
+        {
+          "N": 1,
+          "n_blocos": 5,
+          "sigma_media_N_G": 24.71863942104536,
+          "ganho": 1.0,
+          "ganho_ideal": 1.0,
+          "razao_ganho_ideal": 1.0,
+          "a50_G": 48.448533265248905
+        },
+        {
+          "N": 2,
+          "n_blocos": 2,
+          "sigma_media_N_G": 17.40741792485025,
+          "ganho": 1.4200060875058245,
+          "ganho_ideal": 1.4142135623730951,
+          "razao_ganho_ideal": 1.0040959338015465,
+          "a50_G": 34.11853913270649
+        },
+        {
+          "N": 3,
+          "n_blocos": 1,
+          "sigma_media_N_G": 14.131620909756544,
+          "ganho": 1.749172269684894,
+          "ganho_ideal": 1.7320508075688772,
+          "razao_ganho_ideal": 1.0098850807616022,
+          "a50_G": 27.697976983122825
+        },
+        {
+          "N": 4,
+          "n_blocos": 1,
+          "sigma_media_N_G": 12.106154855217428,
+          "ganho": 2.041824156114465,
+          "ganho_ideal": 2.0,
+          "razao_ganho_ideal": 1.0209120780572325,
+          "a50_G": 23.728063516226158
+        },
+        {
+          "N": 5,
+          "n_blocos": 1,
+          "sigma_media_N_G": 10.753412955839678,
+          "ganho": 2.298678523977061,
+          "ganho_ideal": 2.23606797749979,
+          "razao_ganho_ideal": 1.0280002876063177,
+          "a50_G": 21.07668939344577
+        }
+      ],
+      "binning_2x2": {
+        "sigma_G": 21.36177823511472,
+        "ganho": 1.1571433402680211,
+        "ganho_ideal": 2.0
+      },
+      "N_max": 5,
+      "razao_N_max": 1.0280002876063177,
+      "decisao": "MÉDIA TEMPORAL VALIDADA",
+      "sigma_1_medido_G": 24.71863942104536,
+      "sigma_1_sobre_s_teorico": 1.0162954420033468,
+      "a50_media_todas_G": 15.320771441262119,
+      "a50_N11_extrapolado_G": 14.607782407625706,
+      "arquivo_media": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp_20241008T101050_media.npy",
+      "etiqueta": "20241008T101050"
+    }
+  ]
+}

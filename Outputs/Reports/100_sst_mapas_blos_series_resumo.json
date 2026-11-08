@@ -1,0 +1,31 @@
+{
+  "criterio_fracao_minima": 0.75,
+  "arquivos": {
+    "20241008T094951": {
+      "arquivo": "nb_8542_2024-10-08T09_49_51_09_49_51=0-13_stokes_corrected_export2026-01-26T18_19_45_im.fits",
+      "eps_V": 0.0032863406464154112,
+      "residuo_subpixel_mediano_px": 0.225539692138988,
+      "alinhamento_valido": true,
+      "n_posicoes_ok": 13,
+      "R_mediano": 1.0142404856992597,
+      "sigma_empirico_mediano_G": 16.802658115315317,
+      "s_teorico_mediano_G": 16.542460429790488,
+      "decisao": "RUÍDO DOS MAPAS VALIDADO (s teórico)",
+      "etiqueta": "20241008T094951",
+      "n_posicoes": 13
+    },
+    "20241008T101050": {
+      "arquivo": "nb_8542_2024-10-08T10_10_50_10_10_50=0-9_stokes_corrected_export2026-01-26T14_51_16_im.fits",
+      "eps_V": 0.0032268102747699,
+      "residuo_subpixel_mediano_px": 0.16339123171875874,
+      "alinhamento_valido": true,
+      "n_posicoes_ok": 9,
+      "R_mediano": 0.9827559156855964,
+      "sigma_empirico_mediano_G": 23.91908353715346,
+      "s_teorico_mediano_G": 24.32229684344482,
+      "decisao": "RUÍDO DOS MAPAS VALIDADO (s teórico)",
+      "etiqueta": "20241008T101050",
+      "n_posicoes": 9
+    }
+  }
+}

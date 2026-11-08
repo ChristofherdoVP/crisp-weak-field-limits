@@ -1,0 +1,77 @@
+{
+  "criterio_fracao_minima": 0.75,
+  "arquivos": {
+    "20241008T094951": {
+      "arquivo": "nb_8542_2024-10-08T09_49_51_09_49_51=0-13_stokes_corrected_export2026-01-26T18_19_45_im.fits",
+      "passo": 1,
+      "ATMOS_R0_header": 0.0927231,
+      "n_r_ok": 0,
+      "n_C1_depois": 14,
+      "decisao": "NÃO CONFIRMADO",
+      "eps_V_corrigido": null,
+      "limite_superior_eps": {
+        "mediano": 0.003672881291636473,
+        "faixa": [
+          0.003344454042205095,
+          0.004792806560102568
+        ]
+      },
+      "etiqueta": "20241008T094951",
+      "n_posicoes": 14
+    },
+    "20241008T101050": {
+      "arquivo": "nb_8542_2024-10-08T10_10_50_10_10_50=0-9_stokes_corrected_export2026-01-26T14_51_16_im.fits",
+      "passo": 1,
+      "ATMOS_R0_header": 0.123199,
+      "n_r_ok": 0,
+      "n_C1_depois": 10,
+      "decisao": "NÃO CONFIRMADO",
+      "eps_V_corrigido": null,
+      "limite_superior_eps": {
+        "mediano": 0.004545623940746807,
+        "faixa": [
+          0.004422295462335912,
+          0.004722972819105907
+        ]
+      },
+      "etiqueta": "20241008T101050",
+      "n_posicoes": 10
+    },
+    "20250819T080131": {
+      "arquivo": "nb_8542_2025-08-19T08_01_31_mosaic_0--3_stokes_corrected_export2026-05-14T12_14_55_im.fits",
+      "passo": 1,
+      "ATMOS_R0_header": 0.131,
+      "n_r_ok": 0,
+      "n_C1_depois": 0,
+      "decisao": "NÃO CONFIRMADO",
+      "eps_V_corrigido": null,
+      "limite_superior_eps": {
+        "mediano": 0.0025866954870902587,
+        "faixa": [
+          0.0025266436413746486,
+          0.0027204806296496024
+        ]
+      },
+      "etiqueta": "20250819T080131",
+      "n_posicoes": 4
+    },
+    "20250819T104836": {
+      "arquivo": "nb_8542_2025-08-19T10_48_36_mosaic_0--3_stokes_corrected_export2026-05-14T12_15_56_im.fits",
+      "passo": 1,
+      "ATMOS_R0_header": 0.0623259,
+      "n_r_ok": 0,
+      "n_C1_depois": 0,
+      "decisao": "NÃO CONFIRMADO",
+      "eps_V_corrigido": null,
+      "limite_superior_eps": {
+        "mediano": 0.002372396056647222,
+        "faixa": [
+          0.0023097481155455396,
+          0.002445946988911399
+        ]
+      },
+      "etiqueta": "20250819T104836",
+      "n_posicoes": 4
+    }
+  }
+}

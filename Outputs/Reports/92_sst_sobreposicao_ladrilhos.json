@@ -1,0 +1,366 @@
+{
+  "data": [
+    {
+      "arquivo": "nb_8542_2025-08-19T08_01_31_mosaic_0--3_stokes_corrected_export2026-05-14T12_14_55_im.fits",
+      "pares": [
+        {
+          "par": [
+            0,
+            1
+          ],
+          "sobreposicao": true,
+          "n_pixels_campo_fraco": 646843,
+          "desloc_refino_px": [
+            -21,
+            -39
+          ],
+          "desloc_refino_arcsec": [
+            -1.8993676304401483,
+            -1.0227364163907091
+          ],
+          "r_I": 0.8823487286363546,
+          "alinhamento_valido": true,
+          "s_a_G": 10.963898063988845,
+          "s_b_G": 9.640828742745683,
+          "sigma_dif_G": 26.59122200202942,
+          "R": 1.8213480212441007,
+          "R_na_faixa": false,
+          "estrutura_suave_G": 2.718477880747928,
+          "razao_estrutura": 0.10223215317221812,
+          "mediana_dif_G": -1.7473506927490234,
+          "estrutura_ok": true
+        },
+        {
+          "par": [
+            1,
+            2
+          ],
+          "sobreposicao": true,
+          "n_pixels_campo_fraco": 547206,
+          "desloc_refino_px": [
+            -56,
+            -7
+          ],
+          "desloc_refino_arcsec": [
+            -0.34091213879733906,
+            -2.7272971103764703
+          ],
+          "r_I": 0.9315459626766351,
+          "alinhamento_valido": true,
+          "s_a_G": 9.640828742745683,
+          "s_b_G": 8.978052058512471,
+          "sigma_dif_G": 20.867935471343994,
+          "R": 1.5840392112210022,
+          "R_na_faixa": false,
+          "estrutura_suave_G": 2.9674849032565374,
+          "razao_estrutura": 0.14220308987113314,
+          "mediana_dif_G": -2.523073196411133,
+          "estrutura_ok": true
+        },
+        {
+          "par": [
+            2,
+            3
+          ],
+          "sobreposicao": true,
+          "n_pixels_campo_fraco": 670361,
+          "desloc_refino_px": [
+            7,
+            46
+          ],
+          "desloc_refino_arcsec": [
+            2.2402797692370138,
+            0.34091213879656135
+          ],
+          "r_I": 0.9016676674891362,
+          "alinhamento_valido": true,
+          "s_a_G": 8.978052058512471,
+          "s_b_G": 8.795802245267,
+          "sigma_dif_G": 19.938764005851745,
+          "R": 1.5863856959383151,
+          "R_na_faixa": false,
+          "estrutura_suave_G": 2.7223096314230744,
+          "razao_estrutura": 0.1365335198623202,
+          "mediana_dif_G": -0.785923957824707,
+          "estrutura_ok": true
+        },
+        {
+          "par": [
+            3,
+            0
+          ],
+          "sobreposicao": true,
+          "n_pixels_campo_fraco": 591339,
+          "desloc_refino_px": [
+            62,
+            -1
+          ],
+          "desloc_refino_arcsec": [
+            -0.04870173411326673,
+            3.0195075150596473
+          ],
+          "r_I": 0.36271563308111754,
+          "alinhamento_valido": false,
+          "s_a_G": 8.795802245267,
+          "s_b_G": 10.963898063988845,
+          "sigma_dif_G": 24.836871115565298,
+          "R": 1.7669850252620225,
+          "R_na_faixa": false,
+          "estrutura_suave_G": 3.8390757595319025,
+          "razao_estrutura": 0.15457163431209936,
+          "mediana_dif_G": 4.181580424308777,
+          "estrutura_ok": true
+        }
+      ],
+      "geometria": [
+        {
+          "t": 0,
+          "modo": "WCS-TAB",
+          "escala_arcsec_px": 0.04870173411385603,
+          "angulo_eixo_x_graus": -1.5134583560752884e-11,
+          "centro": [
+            -303.32375294695805,
+            -443.4626859113688
+          ]
+        },
+        {
+          "t": 1,
+          "modo": "WCS-TAB",
+          "escala_arcsec_px": 0.048701734113857045,
+          "angulo_eixo_x_graus": -1.5008483196013553e-11,
+          "centro": [
+            -222.33291052514903,
+            -443.6496074302549
+          ]
+        },
+        {
+          "t": 2,
+          "modo": "WCS-TAB",
+          "escala_arcsec_px": 0.048701734113856116,
+          "angulo_eixo_x_graus": -1.26637913414484e-11,
+          "centro": [
+            -222.13358717992534,
+            -363.30352889814316
+          ]
+        },
+        {
+          "t": 3,
+          "modo": "WCS-TAB",
+          "escala_arcsec_px": 0.04870173411385503,
+          "angulo_eixo_x_graus": -1.265731766328359e-11,
+          "centro": [
+            -303.5321453419005,
+            -362.80086426407274
+          ]
+        }
+      ],
+      "fechamento_arcsec": [
+        -0.04870173411374013,
+        -0.3896138729109708
+      ],
+      "correcoes_apontamento_arcsec": {
+        "0": [
+          0.0,
+          0.0
+        ],
+        "1": [
+          -1.8993676304401483,
+          -1.0227364163907091
+        ],
+        "2": [
+          -2.240279769237487,
+          -3.7500335267671794
+        ],
+        "3": [
+          -4.733990977001667e-13,
+          -3.409121387970618
+        ]
+      },
+      "n_R_ok": 0,
+      "n_estrutura_ok": 3,
+      "decisao_ruido": "MODELO DE RUÍDO NÃO VALIDADO",
+      "decisao_alfa": "CORREÇÃO DE α CONSISTENTE"
+    },
+    {
+      "arquivo": "nb_8542_2025-08-19T10_48_36_mosaic_0--3_stokes_corrected_export2026-05-14T12_15_56_im.fits",
+      "pares": [
+        {
+          "par": [
+            0,
+            1
+          ],
+          "sobreposicao": true,
+          "n_pixels_campo_fraco": 634554,
+          "desloc_refino_px": [
+            -9,
+            -49
+          ],
+          "desloc_refino_arcsec": [
+            -2.3863849715785004,
+            -0.43830982363355625
+          ],
+          "r_I": 0.7450979824487757,
+          "alinhamento_valido": false,
+          "s_a_G": 8.248000261970924,
+          "s_b_G": 8.184670301611003,
+          "sigma_dif_G": 20.405441629600524,
+          "R": 1.7561015346905455,
+          "R_na_faixa": false,
+          "estrutura_suave_G": 2.544095016915226,
+          "razao_estrutura": 0.12467728280993012,
+          "mediana_dif_G": 1.8426251411437988,
+          "estrutura_ok": true
+        },
+        {
+          "par": [
+            1,
+            2
+          ],
+          "sobreposicao": true,
+          "n_pixels_campo_fraco": 569329,
+          "desloc_refino_px": [
+            -62,
+            18
+          ],
+          "desloc_refino_arcsec": [
+            0.8766312140488284,
+            -3.0194676739245865
+          ],
+          "r_I": 0.8835219028959296,
+          "alinhamento_valido": true,
+          "s_a_G": 8.184670301611003,
+          "s_b_G": 11.452982968533371,
+          "sigma_dif_G": 21.768725370025635,
+          "R": 1.5464126392923603,
+          "R_na_faixa": false,
+          "estrutura_suave_G": 2.5605888462710356,
+          "razao_estrutura": 0.11762695347320742,
+          "mediana_dif_G": -3.1650428771972656,
+          "estrutura_ok": true
+        },
+        {
+          "par": [
+            2,
+            3
+          ],
+          "sobreposicao": true,
+          "n_pixels_campo_fraco": 690908,
+          "desloc_refino_px": [
+            23,
+            39
+          ],
+          "desloc_refino_arcsec": [
+            1.8993676304402052,
+            1.1201251048424414
+          ],
+          "r_I": 0.5531042701120303,
+          "alinhamento_valido": false,
+          "s_a_G": 11.452982968533371,
+          "s_b_G": 8.17698322355224,
+          "sigma_dif_G": 21.959380485677716,
+          "R": 1.560451742701255,
+          "R_na_faixa": false,
+          "estrutura_suave_G": 3.454661086913635,
+          "razao_estrutura": 0.15732051681361522,
+          "mediana_dif_G": -1.1853961944580078,
+          "estrutura_ok": true
+        },
+        {
+          "par": [
+            3,
+            0
+          ],
+          "sobreposicao": true,
+          "n_pixels_campo_fraco": 611646,
+          "desloc_refino_px": [
+            47,
+            -8
+          ],
+          "desloc_refino_arcsec": [
+            -0.3896138729103377,
+            2.2889513012007083
+          ],
+          "r_I": 0.5511001938577978,
+          "alinhamento_valido": false,
+          "s_a_G": 8.17698322355224,
+          "s_b_G": 8.248000261970924,
+          "sigma_dif_G": 20.758450887393952,
+          "R": 1.7873143313378446,
+          "R_na_faixa": false,
+          "estrutura_suave_G": 3.3236418525714324,
+          "razao_estrutura": 0.16011030257512088,
+          "mediana_dif_G": 5.113830089569092,
+          "estrutura_ok": false
+        }
+      ],
+      "geometria": [
+        {
+          "t": 0,
+          "modo": "WCS-TAB",
+          "escala_arcsec_px": 0.048701412813317246,
+          "angulo_eixo_x_graus": -1.4983885745486694e-11,
+          "centro": [
+            -277.96052386606067,
+            -432.2531597211554
+          ]
+        },
+        {
+          "t": 1,
+          "modo": "WCS-TAB",
+          "escala_arcsec_px": 0.04870141281331834,
+          "angulo_eixo_x_graus": -1.499416567049097e-11,
+          "centro": [
+            -196.38870057943393,
+            -432.8311083665252
+          ]
+        },
+        {
+          "t": 2,
+          "modo": "WCS-TAB",
+          "escala_arcsec_px": 0.04870141281331727,
+          "angulo_eixo_x_graus": -1.2544957718205824e-11,
+          "centro": [
+            -196.59109519225373,
+            -352.80853024740884
+          ]
+        },
+        {
+          "t": 3,
+          "modo": "WCS-TAB",
+          "escala_arcsec_px": 0.04870141281331627,
+          "angulo_eixo_x_graus": -1.2579862253066197e-11,
+          "centro": [
+            -276.53556263255155,
+            -351.7794638314042
+          ]
+        }
+      ],
+      "fechamento_arcsec": [
+        1.954547634852588e-13,
+        -0.0487010915149928
+      ],
+      "correcoes_apontamento_arcsec": {
+        "0": [
+          0.0,
+          0.0
+        ],
+        "1": [
+          -2.3863849715785004,
+          -0.43830982363355625
+        ],
+        "2": [
+          -1.509753757529672,
+          -3.457777497558143
+        ],
+        "3": [
+          0.3896138729105332,
+          -2.337652392715701
+        ]
+      },
+      "n_R_ok": 0,
+      "n_estrutura_ok": 1,
+      "decisao_ruido": "MODELO DE RUÍDO NÃO VALIDADO",
+      "decisao_alfa": "CORREÇÃO DE α NÃO CONSISTENTE"
+    }
+  ]
+}

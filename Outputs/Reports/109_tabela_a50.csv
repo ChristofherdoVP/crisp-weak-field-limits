@@ -1,0 +1,7 @@
+dataset,measured_G,measured_empirical_zc_G,predicted_v2_G,predicted_v3_G,note
+CRISP 09:49, 1 scan,32.5,34.9,44.9,28.4,
+CRISP 10:10, 1 scan,46.3,51.9,44.9,28.4,
+CRISP 09:49, N = 11,9.8,10.3,13.5,8.4,scaled from the mean of 14 scans
+CRISP 10:10, N = 11,14.0,15.1,13.5,8.4,scaled from the mean of 10 scans
+CRISP2 08:01, 1 scan,20.5–20.9,,34.7,19.2,
+CRISP2 10:52, 1 scan,17.4–17.5,,34.7,19.2,

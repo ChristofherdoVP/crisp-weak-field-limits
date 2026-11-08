@@ -1,0 +1,33 @@
+{
+  "criterio_fracao_minima": 0.75,
+  "arquivos": {
+    "20241008T094951": {
+      "arquivo": "nb_8542_2024-10-08T09_49_51_09_49_51=0-13_stokes_corrected_export2026-01-26T18_19_45_im.fits",
+      "n_posicoes_ok": 10,
+      "decisao": "NÃO CONFIRMADO",
+      "etiqueta": "20241008T094951",
+      "n_posicoes": 14
+    },
+    "20241008T101050": {
+      "arquivo": "nb_8542_2024-10-08T10_10_50_10_10_50=0-9_stokes_corrected_export2026-01-26T14_51_16_im.fits",
+      "n_posicoes_ok": 0,
+      "decisao": "NÃO CONFIRMADO",
+      "etiqueta": "20241008T101050",
+      "n_posicoes": 10
+    },
+    "20250819T080131": {
+      "arquivo": "nb_8542_2025-08-19T08_01_31_mosaic_0--3_stokes_corrected_export2026-05-14T12_14_55_im.fits",
+      "n_posicoes_ok": 4,
+      "decisao": "MODELO α(x,y) CONFIRMADO",
+      "etiqueta": "20250819T080131",
+      "n_posicoes": 4
+    },
+    "20250819T104836": {
+      "arquivo": "nb_8542_2025-08-19T10_48_36_mosaic_0--3_stokes_corrected_export2026-05-14T12_15_56_im.fits",
+      "n_posicoes_ok": 4,
+      "decisao": "MODELO α(x,y) CONFIRMADO",
+      "etiqueta": "20250819T104836",
+      "n_posicoes": 4
+    }
+  }
+}

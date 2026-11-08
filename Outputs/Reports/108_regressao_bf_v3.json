@@ -1,0 +1,1058 @@
+{
+  "generated_at": "2026-10-26T19:59:45.800835+00:00",
+  "data": {
+    "n_por_classe": 400,
+    "k_grade": [
+      1.0,
+      0.30151134457776363
+    ],
+    "rapido": false,
+    "lam_nucleo_v3_nm": 854.2123017154726,
+    "criterio_atendido": {
+      "WF-pixel (todos)": false,
+      "WF-mapa": false
+    },
+    "resultados": {
+      "IBIS/DST": {
+        "WF-pixel (todos)": {
+          "1.000": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0532057665331538,
+              "pull_media": 0.033129373265227295,
+              "pull_std": 0.9978391895044522,
+              "cobertura_1sigma": 0.71,
+              "sigma_mediano_G": 13.942958105638729
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0530799956674914,
+              "pull_media": 0.24059992397156532,
+              "pull_std": 0.9007758939720819,
+              "cobertura_1sigma": 0.7075,
+              "sigma_mediano_G": 13.944543607345032
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.0562208202901866,
+              "pull_media": 2.444282344706984,
+              "pull_std": 2.5027621496620394,
+              "cobertura_1sigma": 0.2025,
+              "sigma_mediano_G": 14.120765230484167
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.0531378408882361,
+              "pull_media": 0.13733429905071332,
+              "pull_std": 0.9521425622407826,
+              "cobertura_1sigma": 0.70875,
+              "sigma_mediano_G": 13.943777877955469
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.03541993531855496,
+              "pull_std": 0.9699670576169351,
+              "cobertura_1sigma": 0.71625,
+              "sigma_mediano_G": 13.240221115020448
+            }
+          },
+          "0.302": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0532057665331538,
+              "pull_media": 0.04543009583823754,
+              "pull_std": 1.0017866540510239,
+              "cobertura_1sigma": 0.71,
+              "sigma_mediano_G": 4.204809970447213
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0530799956674914,
+              "pull_media": 0.6089582724815578,
+              "pull_std": 1.0277685899840374,
+              "cobertura_1sigma": 0.6125,
+              "sigma_mediano_G": 4.205854603187946
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.0562208202901866,
+              "pull_media": 7.589081577059016,
+              "pull_std": 6.9280326301791915,
+              "cobertura_1sigma": 0.0125,
+              "sigma_mediano_G": 4.25448032900384
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.0531378408882361,
+              "pull_media": 0.3160877365586112,
+              "pull_std": 1.0215049334493984,
+              "cobertura_1sigma": 0.66125,
+              "sigma_mediano_G": 4.2053033103242425
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.03851445793220705,
+              "pull_std": 0.9601957511305504,
+              "cobertura_1sigma": 0.71375,
+              "sigma_mediano_G": 3.9931176594864457
+            }
+          }
+        },
+        "WF-pixel (±600 mÅ)": {
+          "1.000": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0598249336025622,
+              "pull_media": 0.02825383009499403,
+              "pull_std": 0.9184326400344462,
+              "cobertura_1sigma": 0.7375,
+              "sigma_mediano_G": 14.672317370725546
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0596843699156402,
+              "pull_media": 0.17957284063821544,
+              "pull_std": 1.0274151170687067,
+              "cobertura_1sigma": 0.6675,
+              "sigma_mediano_G": 14.674582947689977
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.0635381792475713,
+              "pull_media": 2.6829847445993513,
+              "pull_std": 2.736046345618031,
+              "cobertura_1sigma": 0.1775,
+              "sigma_mediano_G": 14.895151826632961
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.0597497568651018,
+              "pull_media": 0.08415150560087302,
+              "pull_std": 0.9646476326018323,
+              "cobertura_1sigma": 0.7025,
+              "sigma_mediano_G": 14.67318624120692
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0000000000000002,
+              "pull_media": 0.013638536690245718,
+              "pull_std": 0.947241581864631,
+              "cobertura_1sigma": 0.7125,
+              "sigma_mediano_G": 13.845897247112752
+            }
+          },
+          "0.302": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0598249336025622,
+              "pull_media": 0.03622962956072542,
+              "pull_std": 0.9155805283259056,
+              "cobertura_1sigma": 0.73,
+              "sigma_mediano_G": 4.424244153917887
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0596843699156402,
+              "pull_media": 0.5457174884232061,
+              "pull_std": 1.1512161153763683,
+              "cobertura_1sigma": 0.56,
+              "sigma_mediano_G": 4.4254785426939005
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.0635381792475713,
+              "pull_media": 8.121916789144578,
+              "pull_std": 7.416405127569578,
+              "cobertura_1sigma": 0.005,
+              "sigma_mediano_G": 4.483962283216865
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.0597497568651018,
+              "pull_media": 0.2750775021002018,
+              "pull_std": 1.0892864290854392,
+              "cobertura_1sigma": 0.645,
+              "sigma_mediano_G": 4.424650068663222
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0000000000000002,
+              "pull_media": 0.015551313960078545,
+              "pull_std": 0.9458669500217717,
+              "cobertura_1sigma": 0.7125,
+              "sigma_mediano_G": 4.175183848828613
+            }
+          }
+        },
+        "WF-mapa": {
+          "1.000": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.053202796483935,
+              "pull_media": 0.03264975250131553,
+              "pull_std": 1.0065806229600764,
+              "cobertura_1sigma": 0.7075,
+              "sigma_mediano_G": 13.946090877374912
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0529673951748133,
+              "pull_media": 0.23726117388633505,
+              "pull_std": 0.9088173552228671,
+              "cobertura_1sigma": 0.71,
+              "sigma_mediano_G": 13.946090877374912
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.044988851120125,
+              "pull_media": 1.624577726270724,
+              "pull_std": 1.2934356121201185,
+              "cobertura_1sigma": 0.285,
+              "sigma_mediano_G": 13.946090877374912
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.0530893323998576,
+              "pull_media": 0.13925967234743603,
+              "pull_std": 0.9549060533077746,
+              "cobertura_1sigma": 0.70875,
+              "sigma_mediano_G": 13.946090877374912
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.038186314213788965,
+              "pull_std": 0.9655429949225636,
+              "cobertura_1sigma": 0.71,
+              "sigma_mediano_G": 13.243027394070674
+            }
+          },
+          "0.302": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.053202796483935,
+              "pull_media": 0.05319232907650269,
+              "pull_std": 1.0104864205445254,
+              "cobertura_1sigma": 0.71,
+              "sigma_mediano_G": 4.204904612040993
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0529673951748133,
+              "pull_media": 0.6087471285671687,
+              "pull_std": 1.0262254730576752,
+              "cobertura_1sigma": 0.615,
+              "sigma_mediano_G": 4.204904612040993
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.044988851120125,
+              "pull_media": 5.11788097346456,
+              "pull_std": 2.814503490227203,
+              "cobertura_1sigma": 0.015,
+              "sigma_mediano_G": 4.204904612040993
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.0530893323998576,
+              "pull_media": 0.3144940477931496,
+              "pull_std": 1.015089865281543,
+              "cobertura_1sigma": 0.6625,
+              "sigma_mediano_G": 4.204904612040993
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.02959209672499724,
+              "pull_std": 0.9684814076553404,
+              "cobertura_1sigma": 0.71,
+              "sigma_mediano_G": 3.9929229958664063
+            }
+          }
+        }
+      },
+      "ViSP/DKIST": {
+        "WF-pixel (todos)": {
+          "1.000": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0029555696358106,
+              "pull_media": 0.030931293797625367,
+              "pull_std": 1.0134095741651266,
+              "cobertura_1sigma": 0.685,
+              "sigma_mediano_G": 2.975340234337968
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0028648702836314,
+              "pull_media": -0.02689307274330316,
+              "pull_std": 0.9368182818066313,
+              "cobertura_1sigma": 0.7125,
+              "sigma_mediano_G": 2.976273430484061
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.0071936978721934,
+              "pull_media": 0.9789955359851283,
+              "pull_std": 2.4800589187530107,
+              "cobertura_1sigma": 0.4125,
+              "sigma_mediano_G": 3.0122967628797563
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.0029046797982446,
+              "pull_media": 0.006186799713719141,
+              "pull_std": 0.9660667279162076,
+              "cobertura_1sigma": 0.69875,
+              "sigma_mediano_G": 2.9758598919630215
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 0.9999999999999999,
+              "pull_media": -0.013732928908707044,
+              "pull_std": 0.9682592704665351,
+              "cobertura_1sigma": 0.69875,
+              "sigma_mediano_G": 2.9672410069536
+            }
+          },
+          "0.302": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0029555696358106,
+              "pull_media": 0.02925374041880872,
+              "pull_std": 1.0274961237669336,
+              "cobertura_1sigma": 0.69,
+              "sigma_mediano_G": 0.8989659540456189
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0028648702836314,
+              "pull_media": 0.11036044145458684,
+              "pull_std": 0.9680294370647768,
+              "cobertura_1sigma": 0.71,
+              "sigma_mediano_G": 0.8991456869871599
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.0071936978721934,
+              "pull_media": 3.9115237143678216,
+              "pull_std": 5.774869247312298,
+              "cobertura_1sigma": 0.1975,
+              "sigma_mediano_G": 0.9100537095588805
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.0029046797982446,
+              "pull_media": 0.07339492145027948,
+              "pull_std": 0.9851005036678047,
+              "cobertura_1sigma": 0.7,
+              "sigma_mediano_G": 0.8990433510070205
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 0.9999999999999999,
+              "pull_media": 0.006195440683533813,
+              "pull_std": 0.9542129009169509,
+              "cobertura_1sigma": 0.69625,
+              "sigma_mediano_G": 0.8964394813551793
+            }
+          }
+        },
+        "WF-pixel (±600 mÅ)": {
+          "1.000": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0036086133108175,
+              "pull_media": 0.021119338415212963,
+              "pull_std": 1.075348451260086,
+              "cobertura_1sigma": 0.6325,
+              "sigma_mediano_G": 3.2921871536182254
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0034974065400835,
+              "pull_media": 0.08727032602844484,
+              "pull_std": 0.9600073051249767,
+              "cobertura_1sigma": 0.6925,
+              "sigma_mediano_G": 3.2934455167056784
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.0088934109794705,
+              "pull_media": 1.718492394173769,
+              "pull_std": 3.005027085368243,
+              "cobertura_1sigma": 0.3425,
+              "sigma_mediano_G": 3.343234033437705
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.003545976760245,
+              "pull_media": 0.03964962159573438,
+              "pull_std": 1.025747475525146,
+              "cobertura_1sigma": 0.6625,
+              "sigma_mediano_G": 3.2927926157954115
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.02707285985815598,
+              "pull_std": 1.0165094847049818,
+              "cobertura_1sigma": 0.66625,
+              "sigma_mediano_G": 3.281157706820328
+            }
+          },
+          "0.302": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0036086133108175,
+              "pull_media": 0.012630360172039454,
+              "pull_std": 1.0774950831176209,
+              "cobertura_1sigma": 0.6375,
+              "sigma_mediano_G": 0.9929202652306084
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0034974065400835,
+              "pull_media": 0.17590377416976816,
+              "pull_std": 0.986501413045909,
+              "cobertura_1sigma": 0.6725,
+              "sigma_mediano_G": 0.9931623198194235
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.0088934109794705,
+              "pull_media": 4.493821273141537,
+              "pull_std": 6.31369901032577,
+              "cobertura_1sigma": 0.18,
+              "sigma_mediano_G": 1.0081141106658817
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.003545976760245,
+              "pull_media": 0.09394076222235812,
+              "pull_std": 1.041185783198131,
+              "cobertura_1sigma": 0.655,
+              "sigma_mediano_G": 0.9930234956643087
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.02009120106572175,
+              "pull_std": 1.0174252549731082,
+              "cobertura_1sigma": 0.66875,
+              "sigma_mediano_G": 0.9895146995358337
+            }
+          }
+        },
+        "WF-mapa": {
+          "1.000": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0029523290741882,
+              "pull_media": 0.03807974066124646,
+              "pull_std": 1.022112294571356,
+              "cobertura_1sigma": 0.6875,
+              "sigma_mediano_G": 2.9821556843297596
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0027323005365971,
+              "pull_media": 0.0365646035772598,
+              "pull_std": 0.9389394602064142,
+              "cobertura_1sigma": 0.7075,
+              "sigma_mediano_G": 2.9821556843297596
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 0.9952845553180736,
+              "pull_media": -1.471397709397483,
+              "pull_std": 2.7313286962837737,
+              "cobertura_1sigma": 0.3425,
+              "sigma_mediano_G": 2.9821556843297596
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.0028462919356058,
+              "pull_media": 0.03807974066124646,
+              "pull_std": 0.9724644077691509,
+              "cobertura_1sigma": 0.6975,
+              "sigma_mediano_G": 2.9821556843297596
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.02352607761158694,
+              "pull_std": 0.9681035951893971,
+              "cobertura_1sigma": 0.6975,
+              "sigma_mediano_G": 2.973691689654518
+            }
+          },
+          "0.302": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0029523290741882,
+              "pull_media": 0.04195227530765371,
+              "pull_std": 1.0237779238013702,
+              "cobertura_1sigma": 0.6875,
+              "sigma_mediano_G": 0.8991537701224867
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0027323005365971,
+              "pull_media": 0.0950861880234851,
+              "pull_std": 0.9465748352597945,
+              "cobertura_1sigma": 0.7125,
+              "sigma_mediano_G": 0.8991537701224867
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 0.9952845553180736,
+              "pull_media": -3.0897391290975937,
+              "pull_std": 5.590810505870806,
+              "cobertura_1sigma": 0.2775,
+              "sigma_mediano_G": 0.8991537701224867
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.0028462919356058,
+              "pull_media": 0.07821906959149483,
+              "pull_std": 0.984530773924529,
+              "cobertura_1sigma": 0.7,
+              "sigma_mediano_G": 0.8991537701224867
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.015512796093805716,
+              "pull_std": 0.960167489901414,
+              "cobertura_1sigma": 0.69375,
+              "sigma_mediano_G": 0.8966017797074555
+            }
+          }
+        }
+      },
+      "CRISP/SST": {
+        "WF-pixel (todos)": {
+          "1.000": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0421320767021591,
+              "pull_media": 0.020202308892604697,
+              "pull_std": 0.9868343705862539,
+              "cobertura_1sigma": 0.69,
+              "sigma_mediano_G": 14.972154358257844
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0419620517697918,
+              "pull_media": 0.15530482863572137,
+              "pull_std": 1.0196357035483343,
+              "cobertura_1sigma": 0.675,
+              "sigma_mediano_G": 14.978009957103271
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.047936822068221,
+              "pull_media": 2.103654620254706,
+              "pull_std": 2.4875564454809727,
+              "cobertura_1sigma": 0.2525,
+              "sigma_mediano_G": 15.293902987696683
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.0420399223796952,
+              "pull_media": 0.07734713958770026,
+              "pull_std": 0.9972058784215128,
+              "cobertura_1sigma": 0.6825,
+              "sigma_mediano_G": 14.974782029845233
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.03638286428856768,
+              "pull_std": 1.0030567171713423,
+              "cobertura_1sigma": 0.69375,
+              "sigma_mediano_G": 14.370641381615675
+            }
+          },
+          "0.302": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0421320767021591,
+              "pull_media": 0.018613296106523514,
+              "pull_std": 0.9800208654253135,
+              "cobertura_1sigma": 0.6875,
+              "sigma_mediano_G": 4.514614827917229
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0419620517697918,
+              "pull_media": 0.41516580344675214,
+              "pull_std": 1.0739692205272353,
+              "cobertura_1sigma": 0.6275,
+              "sigma_mediano_G": 4.516195265398788
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.047936822068221,
+              "pull_media": 6.068276608006097,
+              "pull_std": 5.686493351514292,
+              "cobertura_1sigma": 0.0225,
+              "sigma_mediano_G": 4.607922040801726
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.0420399223796952,
+              "pull_media": 0.2020905176366255,
+              "pull_std": 1.004250039446704,
+              "cobertura_1sigma": 0.6575,
+              "sigma_mediano_G": 4.515434452121257
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.039937322180924675,
+              "pull_std": 1.009531395253027,
+              "cobertura_1sigma": 0.68875,
+              "sigma_mediano_G": 4.333264354986907
+            }
+          }
+        },
+        "WF-pixel (±600 mÅ)": {
+          "1.000": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0437616690801172,
+              "pull_media": 0.02591364131772666,
+              "pull_std": 0.9917441528017078,
+              "cobertura_1sigma": 0.695,
+              "sigma_mediano_G": 15.029282432424292
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.043593661975724,
+              "pull_media": 0.16213288381186358,
+              "pull_std": 1.0136582954148772,
+              "cobertura_1sigma": 0.665,
+              "sigma_mediano_G": 15.034156952548642
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.0497069137302062,
+              "pull_media": 2.1376275928106674,
+              "pull_std": 2.549988498210112,
+              "cobertura_1sigma": 0.245,
+              "sigma_mediano_G": 15.355086857802826
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.043669071255696,
+              "pull_media": 0.09321126305150741,
+              "pull_std": 0.9887949102564487,
+              "cobertura_1sigma": 0.68,
+              "sigma_mediano_G": 15.031278061833374
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.046377243812169955,
+              "pull_std": 0.983171298596073,
+              "cobertura_1sigma": 0.68875,
+              "sigma_mediano_G": 14.402341197817055
+            }
+          },
+          "0.302": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0437616690801172,
+              "pull_media": 0.03427020610510042,
+              "pull_std": 0.9960479078624401,
+              "cobertura_1sigma": 0.6925,
+              "sigma_mediano_G": 4.531489806602984
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.043593661975724,
+              "pull_media": 0.422494576828929,
+              "pull_std": 1.0640346959213585,
+              "cobertura_1sigma": 0.6175,
+              "sigma_mediano_G": 4.5328675164293175
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.0497069137302062,
+              "pull_media": 6.231402936932387,
+              "pull_std": 5.891258355859028,
+              "cobertura_1sigma": 0.0175,
+              "sigma_mediano_G": 4.626233309774188
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.043669071255696,
+              "pull_media": 0.1859836959818371,
+              "pull_std": 1.0101957644012376,
+              "cobertura_1sigma": 0.655,
+              "sigma_mediano_G": 4.53207343410781
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.052258320838480046,
+              "pull_std": 0.991460922120405,
+              "cobertura_1sigma": 0.68625,
+              "sigma_mediano_G": 4.342442982098744
+            }
+          }
+        },
+        "WF-mapa": {
+          "1.000": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0458512419332622,
+              "pull_media": 0.016598563119488353,
+              "pull_std": 0.9788989626777985,
+              "cobertura_1sigma": 0.6875,
+              "sigma_mediano_G": 14.972906710003937
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0454693182912953,
+              "pull_media": 0.15103761264860913,
+              "pull_std": 1.0086502508648638,
+              "cobertura_1sigma": 0.68,
+              "sigma_mediano_G": 14.972906710003937
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.0325660013445417,
+              "pull_media": 0.6022354331574774,
+              "pull_std": 1.3305190340560418,
+              "cobertura_1sigma": 0.4625,
+              "sigma_mediano_G": 14.972906710003937
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.0456671744729582,
+              "pull_media": 0.07550786374139182,
+              "pull_std": 0.9967387979196041,
+              "cobertura_1sigma": 0.68375,
+              "sigma_mediano_G": 14.972906710003937
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.016291345157113064,
+              "pull_std": 1.0175820918065943,
+              "cobertura_1sigma": 0.69375,
+              "sigma_mediano_G": 14.318998506910813
+            }
+          },
+          "0.302": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0458512419332622,
+              "pull_media": 0.020280679766090645,
+              "pull_std": 0.991598156663122,
+              "cobertura_1sigma": 0.6875,
+              "sigma_mediano_G": 4.514501234370706
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0454693182912953,
+              "pull_media": 0.41022447821311503,
+              "pull_std": 1.0533938739142266,
+              "cobertura_1sigma": 0.6325,
+              "sigma_mediano_G": 4.514501234370706
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.0325660013445417,
+              "pull_media": 2.5488625697499083,
+              "pull_std": 2.3050153792562096,
+              "cobertura_1sigma": 0.065,
+              "sigma_mediano_G": 4.514501234370706
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.0456671744729582,
+              "pull_media": 0.19790915156750177,
+              "pull_std": 1.001388163382288,
+              "cobertura_1sigma": 0.66,
+              "sigma_mediano_G": 4.514501234370706
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.015470021136628848,
+              "pull_std": 1.0159384427381912,
+              "cobertura_1sigma": 0.69375,
+              "sigma_mediano_G": 4.317340492825669
+            }
+          }
+        }
+      },
+      "CRISP2/SST": {
+        "WF-pixel (todos)": {
+          "1.000": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0294489932000692,
+              "pull_media": 0.029070869048290808,
+              "pull_std": 0.9949136521944656,
+              "cobertura_1sigma": 0.685,
+              "sigma_mediano_G": 10.21747880910006
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0293221025474946,
+              "pull_media": 0.17732431289084127,
+              "pull_std": 1.0074114343145468,
+              "cobertura_1sigma": 0.6825,
+              "sigma_mediano_G": 10.221572863644615
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.0339208018298547,
+              "pull_media": 2.691847351942377,
+              "pull_std": 2.9368430493605087,
+              "cobertura_1sigma": 0.2,
+              "sigma_mediano_G": 10.419110152332262
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.02937907458049,
+              "pull_media": 0.09371898939749854,
+              "pull_std": 1.000224728130677,
+              "cobertura_1sigma": 0.68375,
+              "sigma_mediano_G": 10.219860476177415
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.05543228824381839,
+              "pull_std": 0.9974075016414476,
+              "cobertura_1sigma": 0.69,
+              "sigma_mediano_G": 9.928179743057616
+            }
+          },
+          "0.302": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0294489932000692,
+              "pull_media": 0.03718535335718251,
+              "pull_std": 1.0043020708803216,
+              "cobertura_1sigma": 0.69,
+              "sigma_mediano_G": 3.0808922676890176
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0293221025474946,
+              "pull_media": 0.5293326293888204,
+              "pull_std": 1.081849548534979,
+              "cobertura_1sigma": 0.585,
+              "sigma_mediano_G": 3.0818686687998613
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.0339208018298547,
+              "pull_media": 8.17457357554845,
+              "pull_std": 7.743140614361304,
+              "cobertura_1sigma": 0.0075,
+              "sigma_mediano_G": 3.140391774835668
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.02937907458049,
+              "pull_media": 0.22677991855846932,
+              "pull_std": 1.0265100979249424,
+              "cobertura_1sigma": 0.6375,
+              "sigma_mediano_G": 3.081355137119708
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.09086483573150375,
+              "pull_std": 0.9986486531102454,
+              "cobertura_1sigma": 0.685,
+              "sigma_mediano_G": 2.993411478055811
+            }
+          }
+        },
+        "WF-pixel (±600 mÅ)": {
+          "1.000": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0321416783075203,
+              "pull_media": 0.04084712704208885,
+              "pull_std": 0.991018944260799,
+              "cobertura_1sigma": 0.68,
+              "sigma_mediano_G": 10.26429302854893
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0320151400203659,
+              "pull_media": 0.18090650162942712,
+              "pull_std": 1.0213774689219506,
+              "cobertura_1sigma": 0.6675,
+              "sigma_mediano_G": 10.26844737575977
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.036817636262238,
+              "pull_media": 2.7295810427640044,
+              "pull_std": 2.929521170585472,
+              "cobertura_1sigma": 0.1875,
+              "sigma_mediano_G": 10.470280269925741
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.032071164806395,
+              "pull_media": 0.09526581404610761,
+              "pull_std": 1.0192508366386648,
+              "cobertura_1sigma": 0.67375,
+              "sigma_mediano_G": 10.266035627421982
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.060805658168947035,
+              "pull_std": 1.0038109429669044,
+              "cobertura_1sigma": 0.68,
+              "sigma_mediano_G": 9.947023013037843
+            }
+          },
+          "0.302": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.0321416783075203,
+              "pull_media": 0.05015395481398329,
+              "pull_std": 1.0043048246912225,
+              "cobertura_1sigma": 0.6825,
+              "sigma_mediano_G": 3.094859838508148
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0320151400203659,
+              "pull_media": 0.5319703046790143,
+              "pull_std": 1.0988764915200973,
+              "cobertura_1sigma": 0.57,
+              "sigma_mediano_G": 3.095776860325663
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.036817636262238,
+              "pull_media": 8.549616658822384,
+              "pull_std": 8.033636278517822,
+              "cobertura_1sigma": 0.005,
+              "sigma_mediano_G": 3.1555366243170493
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.032071164806395,
+              "pull_media": 0.21814569513754464,
+              "pull_std": 1.033680475335187,
+              "cobertura_1sigma": 0.62625,
+              "sigma_mediano_G": 3.095314113128557
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.08811499394361007,
+              "pull_std": 1.0046721990898215,
+              "cobertura_1sigma": 0.6725,
+              "sigma_mediano_G": 2.999128566593761
+            }
+          }
+        },
+        "WF-mapa": {
+          "1.000": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.042040149304375,
+              "pull_media": 0.022898865597093455,
+              "pull_std": 1.000869334306102,
+              "cobertura_1sigma": 0.6875,
+              "sigma_mediano_G": 10.218106324758441
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0416847768814335,
+              "pull_media": 0.16432560540092103,
+              "pull_std": 0.9930724782344191,
+              "cobertura_1sigma": 0.6775,
+              "sigma_mediano_G": 10.218106324758441
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.0296708362594211,
+              "pull_media": 0.8890064522700267,
+              "pull_std": 1.4722808104879972,
+              "cobertura_1sigma": 0.3425,
+              "sigma_mediano_G": 10.218106324758441
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.041868863613979,
+              "pull_media": 0.09351077577402628,
+              "pull_std": 0.9981714745120774,
+              "cobertura_1sigma": 0.6825,
+              "sigma_mediano_G": 10.218106324758441
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.029061176768007735,
+              "pull_std": 1.0047530283229007,
+              "cobertura_1sigma": 0.69,
+              "sigma_mediano_G": 9.807478351271984
+            }
+          },
+          "0.302": {
+            "Quieta": {
+              "n": 400,
+              "ganho": 1.042040149304375,
+              "pull_media": 0.036527027974782744,
+              "pull_std": 1.0078063377913435,
+              "cobertura_1sigma": 0.6925,
+              "sigma_mediano_G": 3.0808749770164683
+            },
+            "Rede": {
+              "n": 400,
+              "ganho": 1.0416847768814335,
+              "pull_media": 0.5270133127667207,
+              "pull_std": 1.061775468756567,
+              "cobertura_1sigma": 0.5875,
+              "sigma_mediano_G": 3.0808749770164683
+            },
+            "Mancha": {
+              "n": 400,
+              "ganho": 1.0296708362594211,
+              "pull_media": 3.283340407764099,
+              "pull_std": 2.955260805526603,
+              "cobertura_1sigma": 0.0325,
+              "sigma_mediano_G": 3.0808749770164683
+            },
+            "Quieta+Rede": {
+              "n": 800,
+              "ganho": 1.041868863613979,
+              "pull_media": 0.22710402802981353,
+              "pull_std": 1.021794695520187,
+              "cobertura_1sigma": 0.64,
+              "sigma_mediano_G": 3.0808749770164683
+            },
+            "Quieta+Rede (corrigido por g)": {
+              "n": 800,
+              "ganho": 1.0,
+              "pull_media": 0.0292227497043853,
+              "pull_std": 1.0143401867999442,
+              "cobertura_1sigma": 0.69,
+              "sigma_mediano_G": 2.957065984609324
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "criterio_fracao_minima": 0.75,
+  "arquivos": {
+    "20241008T094951": {
+      "arquivo": "nb_8542_2024-10-08T09_49_51_09_49_51=0-13_stokes_corrected_export2026-01-26T18_19_45_im.fits",
+      "ATMOS_R0_header": 0.0927231,
+      "n_posicoes_ok": 14,
+      "decisao": "VÁLIDO",
+      "eps_V": {
+        "mediano": 0.0034179122395805936,
+        "faixa": [
+          0.0031308786338333015,
+          0.004612950747432602
+        ]
+      },
+      "etiqueta": "20241008T094951",
+      "n_posicoes": 14
+    },
+    "20241008T101050": {
+      "arquivo": "nb_8542_2024-10-08T10_10_50_10_10_50=0-9_stokes_corrected_export2026-01-26T14_51_16_im.fits",
+      "ATMOS_R0_header": 0.123199,
+      "n_posicoes_ok": 10,
+      "decisao": "VÁLIDO",
+      "eps_V": {
+        "mediano": 0.00329505820800065,
+        "faixa": [
+          0.0032087687996816727,
+          0.0034702970997407914
+        ]
+      },
+      "etiqueta": "20241008T101050",
+      "n_posicoes": 10
+    },
+    "20250819T080131": {
+      "arquivo": "nb_8542_2025-08-19T08_01_31_mosaic_0--3_stokes_corrected_export2026-05-14T12_14_55_im.fits",
+      "ATMOS_R0_header": 0.131,
+      "n_posicoes_ok": 0,
+      "decisao": "REPROVADO",
+      "eps_V": null,
+      "etiqueta": "20250819T080131",
+      "n_posicoes": 4
+    },
+    "20250819T104836": {
+      "arquivo": "nb_8542_2025-08-19T10_48_36_mosaic_0--3_stokes_corrected_export2026-05-14T12_15_56_im.fits",
+      "ATMOS_R0_header": 0.0623259,
+      "n_posicoes_ok": 3,
+      "decisao": "VÁLIDO",
+      "eps_V": {
+        "mediano": 0.00244148898484745,
+        "faixa": [
+          0.0023490092017396137,
+          0.002447901868803647
+        ]
+      },
+      "etiqueta": "20250819T104836",
+      "n_posicoes": 4
+    }
+  }
+}

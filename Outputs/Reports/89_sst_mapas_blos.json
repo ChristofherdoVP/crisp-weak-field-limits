@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "arquivo": "nb_8542_2025-08-19T08_01_31_mosaic_0--3_stokes_corrected_export2026-05-14T12_14_55_im.fits",
+      "eps_V": 0.00236,
+      "mapa_mestre_alfa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\alfa_mestre_crisp2_20250819T080131.npy",
+      "posicoes": [
+        {
+          "t": 0,
+          "arquivo_mapa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp2_20250819T080131_t0.npy",
+          "quadros_excluidos": [
+            2,
+            4,
+            10,
+            12
+          ],
+          "correcao_alfa_validada": false,
+          "s_teorico_G": 10.963898063988845,
+          "sigma_a_calmo_G": 24.75243377685547,
+          "frac_area_valida": 0.7800793408820411,
+          "frac_alfa_proprio": 0.6838058493058072,
+          "frac_alfa_mestre": 0.3161941506941927,
+          "P01_P99_G": [
+            -140.49081420898438,
+            276.58685302734375
+          ],
+          "frac_calmo_acima_1p96s_teorico": 0.3993025222482185
+        },
+        {
+          "t": 1,
+          "arquivo_mapa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp2_20250819T080131_t1.npy",
+          "quadros_excluidos": [
+            6,
+            8
+          ],
+          "correcao_alfa_validada": true,
+          "s_teorico_G": 9.640828742745683,
+          "sigma_a_calmo_G": 18.684175491333008,
+          "frac_area_valida": 0.7799567066868248,
+          "frac_alfa_proprio": 0.7093404553186579,
+          "frac_alfa_mestre": 0.2906595446813422,
+          "P01_P99_G": [
+            -507.2389221191406,
+            109.32334899902344
+          ],
+          "frac_calmo_acima_1p96s_teorico": 0.34483482248487374
+        },
+        {
+          "t": 2,
+          "arquivo_mapa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp2_20250819T080131_t2.npy",
+          "quadros_excluidos": [],
+          "correcao_alfa_validada": true,
+          "s_teorico_G": 8.978052058512471,
+          "sigma_a_calmo_G": 19.575828552246094,
+          "frac_area_valida": 0.7799622727165992,
+          "frac_alfa_proprio": 0.7370616033365714,
+          "frac_alfa_mestre": 0.26293839666342855,
+          "P01_P99_G": [
+            -484.74066162109375,
+            49.94380187988281
+          ],
+          "frac_calmo_acima_1p96s_teorico": 0.40108232511886777
+        },
+        {
+          "t": 3,
+          "arquivo_mapa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp2_20250819T080131_t3.npy",
+          "quadros_excluidos": [],
+          "correcao_alfa_validada": true,
+          "s_teorico_G": 8.795802245267,
+          "sigma_a_calmo_G": 18.258729934692383,
+          "frac_area_valida": 0.7799209100065142,
+          "frac_alfa_proprio": 0.7487719199647339,
+          "frac_alfa_mestre": 0.25122808003526614,
+          "P01_P99_G": [
+            -119.32038879394531,
+            268.9814453125
+          ],
+          "frac_calmo_acima_1p96s_teorico": 0.3556655175521902
+        }
+      ]
+    },
+    {
+      "arquivo": "nb_8542_2025-08-19T10_48_36_mosaic_0--3_stokes_corrected_export2026-05-14T12_15_56_im.fits",
+      "eps_V": 0.0022,
+      "mapa_mestre_alfa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\alfa_mestre_crisp2_20250819T104836.npy",
+      "posicoes": [
+        {
+          "t": 0,
+          "arquivo_mapa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp2_20250819T104836_t0.npy",
+          "quadros_excluidos": [],
+          "correcao_alfa_validada": true,
+          "s_teorico_G": 8.248000261970924,
+          "sigma_a_calmo_G": 21.234115600585938,
+          "frac_area_valida": 0.7760535415957873,
+          "frac_alfa_proprio": 0.6812407733731566,
+          "frac_alfa_mestre": 0.31875922662684336,
+          "P01_P99_G": [
+            -105.56092834472656,
+            260.6155700683594
+          ],
+          "frac_calmo_acima_1p96s_teorico": 0.4550409695391216
+        },
+        {
+          "t": 1,
+          "arquivo_mapa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp2_20250819T104836_t1.npy",
+          "quadros_excluidos": [],
+          "correcao_alfa_validada": true,
+          "s_teorico_G": 8.184670301611003,
+          "sigma_a_calmo_G": 17.001419067382812,
+          "frac_area_valida": 0.7761306582718455,
+          "frac_alfa_proprio": 0.7009443161729086,
+          "frac_alfa_mestre": 0.29905568382709136,
+          "P01_P99_G": [
+            -467.35162353515625,
+            108.39204406738281
+          ],
+          "frac_calmo_acima_1p96s_teorico": 0.363428760383121
+        },
+        {
+          "t": 2,
+          "arquivo_mapa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp2_20250819T104836_t2.npy",
+          "quadros_excluidos": [
+            4,
+            6,
+            8,
+            10
+          ],
+          "correcao_alfa_validada": true,
+          "s_teorico_G": 11.452982968533371,
+          "sigma_a_calmo_G": 20.678836822509766,
+          "frac_area_valida": 0.7761523621869613,
+          "frac_alfa_proprio": 0.7344144853296076,
+          "frac_alfa_mestre": 0.26558551467039243,
+          "P01_P99_G": [
+            -494.1133728027344,
+            44.44500732421875
+          ],
+          "frac_calmo_acima_1p96s_teorico": 0.29986648663265236
+        },
+        {
+          "t": 3,
+          "arquivo_mapa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp2_20250819T104836_t3.npy",
+          "quadros_excluidos": [],
+          "correcao_alfa_validada": true,
+          "s_teorico_G": 8.17698322355224,
+          "sigma_a_calmo_G": 17.23275375366211,
+          "frac_area_valida": 0.776240480194703,
+          "frac_alfa_proprio": 0.7403725635896833,
+          "frac_alfa_mestre": 0.25962743641031666,
+          "P01_P99_G": [
+            -109.32319641113281,
+            231.37423706054688
+          ],
+          "frac_calmo_acima_1p96s_teorico": 0.3572812390359086
+        }
+      ]
+    }
+  ]
+}

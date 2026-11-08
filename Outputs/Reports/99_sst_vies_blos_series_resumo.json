@@ -1,0 +1,85 @@
+{
+  "criterio_fracao_minima": 0.75,
+  "arquivos": {
+    "20241008T094951": {
+      "arquivo": "nb_8542_2024-10-08T09_49_51_09_49_51=0-13_stokes_corrected_export2026-01-26T18_19_45_im.fits",
+      "eps_V": 0.0032863406464154112,
+      "f_par_3_11": 1.6234721393455671,
+      "f_par_3_11_p25_p75": [
+        1.5228627234957686,
+        1.6725077813102085
+      ],
+      "n_acima_M1": 0,
+      "P95_max_G_M1": 0.7979900299875385,
+      "n_acima_M2": 0,
+      "P95_max_G_M2": 0.8594789743966242,
+      "modelos_relevantes": [],
+      "n_posicoes_ok": 0,
+      "decisao": "VIÉS DESPREZÍVEL: mapas sem correção",
+      "incerteza_sistematica_G": 0.8594789743966242,
+      "etiqueta": "20241008T094951",
+      "n_posicoes": 14
+    },
+    "20241008T101050": {
+      "arquivo": "nb_8542_2024-10-08T10_10_50_10_10_50=0-9_stokes_corrected_export2026-01-26T14_51_16_im.fits",
+      "eps_V": 0.0032268102747699,
+      "f_par_3_11": 1.7894406399974483,
+      "f_par_3_11_p25_p75": [
+        1.7486684867297297,
+        1.8490496588475092
+      ],
+      "n_acima_M1": 0,
+      "P95_max_G_M1": 1.014832654288291,
+      "n_acima_M2": 0,
+      "P95_max_G_M2": 1.2137701294812182,
+      "modelos_relevantes": [],
+      "n_posicoes_ok": 0,
+      "decisao": "VIÉS DESPREZÍVEL: mapas sem correção",
+      "incerteza_sistematica_G": 1.2137701294812182,
+      "etiqueta": "20241008T101050",
+      "n_posicoes": 10
+    },
+    "20250819T080131": {
+      "arquivo": "nb_8542_2025-08-19T08_01_31_mosaic_0--3_stokes_corrected_export2026-05-14T12_14_55_im.fits",
+      "eps_V": 0.002357352468162291,
+      "f_par_3_11": 1.0503860898055846,
+      "f_par_3_11_p25_p75": [
+        1.0176903190901632,
+        1.092599198820127
+      ],
+      "n_acima_M1": 4,
+      "P95_max_G_M1": 2.6988312426009053,
+      "n_acima_M2": 4,
+      "P95_max_G_M2": 2.7182688001645494,
+      "modelos_relevantes": [
+        "M1",
+        "M2"
+      ],
+      "n_posicoes_ok": 4,
+      "decisao": "CORREÇÃO NECESSÁRIA (modelo M1, M2)",
+      "etiqueta": "20250819T080131",
+      "n_posicoes": 4
+    },
+    "20250819T104836": {
+      "arquivo": "nb_8542_2025-08-19T10_48_36_mosaic_0--3_stokes_corrected_export2026-05-14T12_15_56_im.fits",
+      "eps_V": 0.0022009050074749408,
+      "f_par_3_11": 1.077404258547404,
+      "f_par_3_11_p25_p75": [
+        1.0592247641438601,
+        1.0930149859385716
+      ],
+      "n_acima_M1": 4,
+      "P95_max_G_M1": 3.16327239218714,
+      "n_acima_M2": 4,
+      "P95_max_G_M2": 3.194643034610476,
+      "modelos_relevantes": [
+        "M1",
+        "M2"
+      ],
+      "n_posicoes_ok": 4,
+      "decisao": "CORREÇÃO NECESSÁRIA (modelo M1, M2)",
+      "etiqueta": "20250819T104836",
+      "n_posicoes": 4
+    }
+  }
+}

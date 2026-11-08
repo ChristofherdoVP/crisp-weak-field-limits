@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "arquivo": "nb_8542_2024-10-08T09_49_51_09_49_51=0-13_stokes_corrected_export2026-01-26T18_19_45_im.fits",
+      "n_varreduras": 14,
+      "s_teorico_G": 16.542460429790488,
+      "por_N": [
+        {
+          "N": 1,
+          "n_blocos": 7,
+          "sigma_media_N_G": 17.365473558276936,
+          "ganho": 1.0,
+          "ganho_ideal": 1.0,
+          "razao_ganho_ideal": 1.0,
+          "a50_G": 34.036328174222795
+        },
+        {
+          "N": 2,
+          "n_blocos": 3,
+          "sigma_media_N_G": 12.277492176473089,
+          "ganho": 1.4144153633877903,
+          "ganho_ideal": 1.4142135623730951,
+          "razao_ganho_ideal": 1.0001426948659413,
+          "a50_G": 24.063884665887254
+        },
+        {
+          "N": 3,
+          "n_blocos": 2,
+          "sigma_media_N_G": 9.998550878037438,
+          "ganho": 1.7367990391909183,
+          "ganho_ideal": 1.7320508075688772,
+          "razao_ganho_ideal": 1.00274139280516,
+          "a50_G": 19.59715972095338
+        },
+        {
+          "N": 4,
+          "n_blocos": 1,
+          "sigma_media_N_G": 8.48258812176927,
+          "ganho": 2.047190469346389,
+          "ganho_ideal": 2.0,
+          "razao_ganho_ideal": 1.0235952346731945,
+          "a50_G": 16.625872718667768
+        },
+        {
+          "N": 5,
+          "n_blocos": 1,
+          "sigma_media_N_G": 7.558197034075976,
+          "ganho": 2.297568253379087,
+          "ganho_ideal": 2.23606797749979,
+          "razao_ganho_ideal": 1.0275037595002199,
+          "a50_G": 14.814066186788912
+        },
+        {
+          "N": 6,
+          "n_blocos": 1,
+          "sigma_media_N_G": 7.074823038903089,
+          "ganho": 2.454545288664825,
+          "ganho_ideal": 2.449489742783178,
+          "razao_ganho_ideal": 1.002063917963544,
+          "a50_G": 13.866653156250054
+        },
+        {
+          "N": 7,
+          "n_blocos": 1,
+          "sigma_media_N_G": 6.542693143890255,
+          "ganho": 2.6541782071031848,
+          "ganho_ideal": 2.6457513110645907,
+          "razao_ganho_ideal": 1.0031850673203306,
+          "a50_G": 12.8236785620249
+        }
+      ],
+      "binning_2x2": {
+        "sigma_G": 15.880221661157732,
+        "ganho": 1.093528410925904,
+        "ganho_ideal": 2.0
+      },
+      "N_max": 7,
+      "razao_N_max": 1.0031850673203306,
+      "decisao": "MÉDIA TEMPORAL VALIDADA",
+      "sigma_1_medido_G": 17.365473558276936,
+      "sigma_1_sobre_s_teorico": 1.0497515549140637,
+      "a50_media_todas_G": 9.096591337981625,
+      "a50_N11_extrapolado_G": 10.262339072299934,
+      "arquivo_media": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp_20241008T094951_media.npy",
+      "etiqueta": "20241008T094951"
+    }
+  ]
+}

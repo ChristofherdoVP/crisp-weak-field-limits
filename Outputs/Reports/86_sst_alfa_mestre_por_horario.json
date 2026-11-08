@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "arquivo": "nb_8542_2025-08-19T08_01_31_mosaic_0--3_stokes_corrected_export2026-05-14T12_14_55_im.fits",
+      "posicoes": [
+        {
+          "t": 0,
+          "razao_mestre_sem_t": 0.12484088165255103,
+          "razao_proprio_alfa": 0.0550378269656822,
+          "r_mestre_vs_proprio": 0.9960989367686972,
+          "cobertura": 0.933296549255868,
+          "passa": true
+        },
+        {
+          "t": 1,
+          "razao_mestre_sem_t": 0.1384788369269515,
+          "razao_proprio_alfa": 0.0406425213084092,
+          "r_mestre_vs_proprio": 0.9944140784964001,
+          "cobertura": 0.9146243395786832,
+          "passa": true
+        },
+        {
+          "t": 2,
+          "razao_mestre_sem_t": 0.11744286829910294,
+          "razao_proprio_alfa": 0.05018871963044151,
+          "r_mestre_vs_proprio": 0.9937589212010812,
+          "cobertura": 0.9236900647087383,
+          "passa": true
+        },
+        {
+          "t": 3,
+          "razao_mestre_sem_t": 0.14860765889092056,
+          "razao_proprio_alfa": 0.05426902071210421,
+          "r_mestre_vs_proprio": 0.996210712691449,
+          "cobertura": 0.9002557366539611,
+          "passa": true
+        }
+      ],
+      "n_posicoes_ok": 4,
+      "decisao": "MAPA MESTRE DO HORÁRIO VÁLIDO",
+      "cobertura_mestre_sem_preencher": 0.5888629062736206,
+      "cobertura_mestre_preenchido": 0.6668605127236079,
+      "alfa_mestre_mediana": -0.00024933426175266504,
+      "alfa_mestre_p05_p95": [
+        -0.0012025631731376052,
+        0.002250777091830969
+      ],
+      "mapa_mestre": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\alfa_mestre_crisp2_20250819T080131.npy"
+    },
+    {
+      "arquivo": "nb_8542_2025-08-19T10_48_36_mosaic_0--3_stokes_corrected_export2026-05-14T12_15_56_im.fits",
+      "posicoes": [
+        {
+          "t": 0,
+          "razao_mestre_sem_t": 0.18051644245016446,
+          "razao_proprio_alfa": 0.06356836394844434,
+          "r_mestre_vs_proprio": 0.9930976842044308,
+          "cobertura": 0.9265138154027043,
+          "passa": true
+        },
+        {
+          "t": 1,
+          "razao_mestre_sem_t": 0.09925494012734437,
+          "razao_proprio_alfa": 0.036178198611174946,
+          "r_mestre_vs_proprio": 0.9966492054997379,
+          "cobertura": 0.9094121003313657,
+          "passa": true
+        },
+        {
+          "t": 2,
+          "razao_mestre_sem_t": 0.22306840437378575,
+          "razao_proprio_alfa": 0.0435791762549015,
+          "r_mestre_vs_proprio": 0.9947255451573306,
+          "cobertura": 0.9155886664105082,
+          "passa": false
+        },
+        {
+          "t": 3,
+          "razao_mestre_sem_t": 0.16954376511372116,
+          "razao_proprio_alfa": 0.0503187774024222,
+          "r_mestre_vs_proprio": 0.9939667443409091,
+          "cobertura": 0.9286883767896427,
+          "passa": true
+        }
+      ],
+      "n_posicoes_ok": 3,
+      "decisao": "MAPA MESTRE DO HORÁRIO VÁLIDO",
+      "cobertura_mestre_sem_preencher": 0.59239588650069,
+      "cobertura_mestre_preenchido": 0.6704079157135926,
+      "alfa_mestre_mediana": -0.0003037915739696473,
+      "alfa_mestre_p05_p95": [
+        -0.001355720334686339,
+        0.00243074051104486
+      ],
+      "mapa_mestre": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\alfa_mestre_crisp2_20250819T104836.npy"
+    }
+  ]
+}

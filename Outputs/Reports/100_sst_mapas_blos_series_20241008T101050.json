@@ -1,0 +1,294 @@
+{
+  "data": [
+    {
+      "arquivo": "nb_8542_2024-10-08T10_10_50_10_10_50=0-9_stokes_corrected_export2026-01-26T14_51_16_im.fits",
+      "eps_V": 0.0032268102747699,
+      "varreduras": [
+        {
+          "t": 0,
+          "arquivo_mapa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp_20241008T101050_t0.npy",
+          "s_teorico_G": 24.07822050526488,
+          "a50_G": 47.19331219031916,
+          "sigma_a_calmo_G": 200.9592313916558,
+          "frac_area_valida": 0.7179598939517386,
+          "P01_P99_G": [
+            -951.8051926631417,
+            1184.053158645261
+          ],
+          "frac_calmo_acima_a50": 0.8214388733350301
+        },
+        {
+          "t": 1,
+          "arquivo_mapa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp_20241008T101050_t1.npy",
+          "s_teorico_G": 24.018649958475525,
+          "a50_G": 47.07655391861203,
+          "sigma_a_calmo_G": 202.78107391530176,
+          "frac_area_valida": 0.7176169596402898,
+          "P01_P99_G": [
+            -979.9557148934249,
+            1169.7779588029534
+          ],
+          "frac_calmo_acima_a50": 0.814200607451558
+        },
+        {
+          "t": 2,
+          "arquivo_mapa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp_20241008T101050_t2.npy",
+          "s_teorico_G": 24.06247637265368,
+          "a50_G": 47.162453690401215,
+          "sigma_a_calmo_G": 202.3887147329999,
+          "frac_area_valida": 0.7177619082599616,
+          "P01_P99_G": [
+            -993.0067493232866,
+            1160.6861700693369
+          ],
+          "frac_calmo_acima_a50": 0.8181373656911284
+        },
+        {
+          "t": 3,
+          "arquivo_mapa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp_20241008T101050_t3.npy",
+          "s_teorico_G": 24.13332393467929,
+          "a50_G": 47.3013149119714,
+          "sigma_a_calmo_G": 202.2515640823184,
+          "frac_area_valida": 0.7178729297701478,
+          "P01_P99_G": [
+            -957.6969565335723,
+            1152.1559855825421
+          ],
+          "frac_calmo_acima_a50": 0.8152442493355637
+        },
+        {
+          "t": 4,
+          "arquivo_mapa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp_20241008T101050_t4.npy",
+          "s_teorico_G": 24.30720881315088,
+          "a50_G": 47.64212927377572,
+          "sigma_a_calmo_G": 205.63144063154988,
+          "frac_area_valida": 0.7179361823007314,
+          "P01_P99_G": [
+            -951.1681174210808,
+            1167.1380291178991
+          ],
+          "frac_calmo_acima_a50": 0.8129163058858313
+        },
+        {
+          "t": 5,
+          "arquivo_mapa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp_20241008T101050_t5.npy",
+          "s_teorico_G": 24.400408865254352,
+          "a50_G": 47.82480137589853,
+          "sigma_a_calmo_G": 205.71123153909423,
+          "frac_area_valida": 0.7178440043178114,
+          "P01_P99_G": [
+            -957.796240815551,
+            1170.0391413622203
+          ],
+          "frac_calmo_acima_a50": 0.8139641020687299
+        },
+        {
+          "t": 6,
+          "arquivo_mapa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp_20241008T101050_t6.npy",
+          "s_teorico_G": 24.337384873738763,
+          "a50_G": 47.701274352527975,
+          "sigma_a_calmo_G": 204.92605926015636,
+          "frac_area_valida": 0.7179120344510712,
+          "P01_P99_G": [
+            -976.7575052519018,
+            1189.5543998458697
+          ],
+          "frac_calmo_acima_a50": 0.8093608726894156
+        },
+        {
+          "t": 7,
+          "arquivo_mapa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp_20241008T101050_t7.npy",
+          "s_teorico_G": 24.340182192284974,
+          "a50_G": 47.70675709687855,
+          "sigma_a_calmo_G": 203.56585354641945,
+          "frac_area_valida": 0.7177494868038317,
+          "P01_P99_G": [
+            -963.8197532416754,
+            1173.680223877318
+          ],
+          "frac_calmo_acima_a50": 0.8071489587239117
+        },
+        {
+          "t": 8,
+          "arquivo_mapa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp_20241008T101050_t8.npy",
+          "s_teorico_G": 24.444770660379767,
+          "a50_G": 47.91175049434434,
+          "sigma_a_calmo_G": 206.9111382168492,
+          "frac_area_valida": 0.7178238159516404,
+          "P01_P99_G": [
+            -957.9858482308176,
+            1182.2785771684119
+          ],
+          "frac_calmo_acima_a50": 0.8067572421662054
+        },
+        {
+          "t": 9,
+          "arquivo_mapa": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp_20241008T101050_t9.npy",
+          "s_teorico_G": 24.751126828947836,
+          "a50_G": 48.512208584737756,
+          "sigma_a_calmo_G": 208.05056751705283,
+          "frac_area_valida": 0.7178858638935649,
+          "P01_P99_G": [
+            -968.5829775812621,
+            1184.0928968119513
+          ],
+          "frac_calmo_acima_a50": 0.8061495517435361
+        }
+      ],
+      "pares": [
+        {
+          "t": [
+            0,
+            1
+          ],
+          "desloc_px": [
+            0,
+            0
+          ],
+          "residuo_subpixel_px": 0.08268234067620354,
+          "n_pixels": 382888,
+          "sigma_delta_a_G": 33.37785563459836,
+          "sigma_empirico_por_mapa_G": 23.601708060690115,
+          "R": 0.9814231042670362,
+          "passa": true
+        },
+        {
+          "t": [
+            1,
+            2
+          ],
+          "desloc_px": [
+            0,
+            0
+          ],
+          "residuo_subpixel_px": 0.036645326116692516,
+          "n_pixels": 378681,
+          "sigma_delta_a_G": 33.38239699554205,
+          "sigma_empirico_por_mapa_G": 23.604919287809214,
+          "R": 0.9818783910833412,
+          "passa": true
+        },
+        {
+          "t": [
+            2,
+            3
+          ],
+          "desloc_px": [
+            0,
+            0
+          ],
+          "residuo_subpixel_px": 0.1831437663120362,
+          "n_pixels": 381316,
+          "sigma_delta_a_G": 34.69744892564282,
+          "sigma_empirico_por_mapa_G": 24.534801425195923,
+          "R": 1.0181291631369636,
+          "passa": true
+        },
+        {
+          "t": [
+            3,
+            4
+          ],
+          "desloc_px": [
+            0,
+            0
+          ],
+          "residuo_subpixel_px": 0.16339123171875874,
+          "n_pixels": 394236,
+          "sigma_delta_a_G": 35.530862510617986,
+          "sigma_empirico_por_mapa_G": 25.124113822664857,
+          "R": 1.037311133011016,
+          "passa": true
+        },
+        {
+          "t": [
+            4,
+            5
+          ],
+          "desloc_px": [
+            0,
+            0
+          ],
+          "residuo_subpixel_px": 0.2196192482380876,
+          "n_pixels": 407106,
+          "sigma_delta_a_G": 35.49685668990526,
+          "sigma_empirico_por_mapa_G": 25.100068076239072,
+          "R": 1.0306405167384487,
+          "passa": true
+        },
+        {
+          "t": [
+            5,
+            6
+          ],
+          "desloc_px": [
+            0,
+            0
+          ],
+          "residuo_subpixel_px": 0.19310371668708554,
+          "n_pixels": 402288,
+          "sigma_delta_a_G": 35.686692774322196,
+          "sigma_empirico_por_mapa_G": 25.23430245884419,
+          "R": 1.0355118451197727,
+          "passa": true
+        },
+        {
+          "t": [
+            6,
+            7
+          ],
+          "desloc_px": [
+            0,
+            0
+          ],
+          "residuo_subpixel_px": 0.10543302494670434,
+          "n_pixels": 397605,
+          "sigma_delta_a_G": 33.826692337777445,
+          "sigma_empirico_por_mapa_G": 23.91908353715346,
+          "R": 0.9827559156855964,
+          "passa": true
+        },
+        {
+          "t": [
+            7,
+            8
+          ],
+          "desloc_px": [
+            0,
+            0
+          ],
+          "residuo_subpixel_px": 0.07566407135619214,
+          "n_pixels": 407064,
+          "sigma_delta_a_G": 32.71821936707232,
+          "sigma_empirico_por_mapa_G": 23.13527478280587,
+          "R": 0.9484572706696469,
+          "passa": true
+        },
+        {
+          "t": [
+            8,
+            9
+          ],
+          "desloc_px": [
+            0,
+            0
+          ],
+          "residuo_subpixel_px": 0.17601349889130452,
+          "n_pixels": 397033,
+          "sigma_delta_a_G": 33.3168819129059,
+          "sigma_empirico_por_mapa_G": 23.558593128607193,
+          "R": 0.9577276787700449,
+          "passa": true
+        }
+      ],
+      "residuo_subpixel_mediano_px": 0.16339123171875874,
+      "alinhamento_valido": true,
+      "n_posicoes_ok": 9,
+      "R_mediano": 0.9827559156855964,
+      "sigma_empirico_mediano_G": 23.91908353715346,
+      "s_teorico_mediano_G": 24.32229684344482,
+      "decisao": "RUÍDO DOS MAPAS VALIDADO (s teórico)",
+      "etiqueta": "20241008T101050"
+    }
+  ]
+}

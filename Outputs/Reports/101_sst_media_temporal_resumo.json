@@ -1,0 +1,45 @@
+{
+  "criterio_fracao_minima": 0.75,
+  "arquivos": {
+    "20241008T094951": {
+      "arquivo": "nb_8542_2024-10-08T09_49_51_09_49_51=0-13_stokes_corrected_export2026-01-26T18_19_45_im.fits",
+      "n_varreduras": 14,
+      "s_teorico_G": 16.542460429790488,
+      "binning_2x2": {
+        "sigma_G": 15.880221661157732,
+        "ganho": 1.093528410925904,
+        "ganho_ideal": 2.0
+      },
+      "N_max": 7,
+      "razao_N_max": 1.0031850673203306,
+      "decisao": "MÉDIA TEMPORAL VALIDADA",
+      "sigma_1_medido_G": 17.365473558276936,
+      "sigma_1_sobre_s_teorico": 1.0497515549140637,
+      "a50_media_todas_G": 9.096591337981625,
+      "a50_N11_extrapolado_G": 10.262339072299934,
+      "arquivo_media": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp_20241008T094951_media.npy",
+      "etiqueta": "20241008T094951",
+      "n_posicoes": 0
+    },
+    "20241008T101050": {
+      "arquivo": "nb_8542_2024-10-08T10_10_50_10_10_50=0-9_stokes_corrected_export2026-01-26T14_51_16_im.fits",
+      "n_varreduras": 10,
+      "s_teorico_G": 24.32229684344482,
+      "binning_2x2": {
+        "sigma_G": 21.36177823511472,
+        "ganho": 1.1571433402680211,
+        "ganho_ideal": 2.0
+      },
+      "N_max": 5,
+      "razao_N_max": 1.0280002876063177,
+      "decisao": "MÉDIA TEMPORAL VALIDADA",
+      "sigma_1_medido_G": 24.71863942104536,
+      "sigma_1_sobre_s_teorico": 1.0162954420033468,
+      "a50_media_todas_G": 15.320771441262119,
+      "a50_N11_extrapolado_G": 14.607782407625706,
+      "arquivo_media": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Data\\blos_f_crisp_20241008T101050_media.npy",
+      "etiqueta": "20241008T101050",
+      "n_posicoes": 0
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": [
+    {
+      "arquivo": "nb_8542_2025-08-19T08_01_31_mosaic_0--3_stokes_corrected_export2026-05-14T12_14_55_im.fits",
+      "passo": 4,
+      "shape_amostrado": [
+        4,
+        630,
+        630
+      ],
+      "por_varredura": [
+        {
+          "t": 0,
+          "frac_I_valido": 0.8046384479717813,
+          "frac_V_valido": 0.8046359284454523
+        },
+        {
+          "t": 1,
+          "frac_I_valido": 0.8046636432350718,
+          "frac_V_valido": 0.8046636432350718
+        },
+        {
+          "t": 2,
+          "frac_I_valido": 0.8046485260770975,
+          "frac_V_valido": 0.8046485260770975
+        },
+        {
+          "t": 3,
+          "frac_I_valido": 0.8046661627614009,
+          "frac_V_valido": 0.8046661627614009
+        }
+      ],
+      "pares": [
+        {
+          "t1": 0,
+          "t2": 1,
+          "sobreposicao": 0.9995805067103274,
+          "correlacao_I": 0.09293879448570332
+        },
+        {
+          "t1": 0,
+          "t2": 2,
+          "sobreposicao": 0.9994302779116868,
+          "correlacao_I": 0.06769074275361092
+        },
+        {
+          "t1": 0,
+          "t2": 3,
+          "sobreposicao": 0.999408378487515,
+          "correlacao_I": 0.0634903981286766
+        },
+        {
+          "t1": 1,
+          "t2": 2,
+          "sobreposicao": 0.9996118085339512,
+          "correlacao_I": 0.0904167623072984
+        },
+        {
+          "t1": 1,
+          "t2": 3,
+          "sobreposicao": 0.9995836437743788,
+          "correlacao_I": 0.101782030040409
+        },
+        {
+          "t1": 2,
+          "t2": 3,
+          "sobreposicao": 0.9998340612720925,
+          "correlacao_I": 0.11744772712441484
+        }
+      ],
+      "decisao": "INDEFINIDO",
+      "figura": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Figures\\cel78_nb_8542_2025-08-19T08_01_31_mo.png"
+    },
+    {
+      "arquivo": "nb_8542_2025-08-19T10_48_36_mosaic_0--3_stokes_corrected_export2026-05-14T12_15_56_im.fits",
+      "passo": 4,
+      "shape_amostrado": [
+        4,
+        630,
+        630
+      ],
+      "por_varredura": [
+        {
+          "t": 0,
+          "frac_I_valido": 0.806283698664651,
+          "frac_V_valido": 0.806281179138322
+        },
+        {
+          "t": 1,
+          "frac_I_valido": 0.8062459057697153,
+          "frac_V_valido": 0.8062459057697153
+        },
+        {
+          "t": 2,
+          "frac_I_valido": 0.8061854371378181,
+          "frac_V_valido": 0.8061854371378181
+        },
+        {
+          "t": 3,
+          "frac_I_valido": 0.8061501637692113,
+          "frac_V_valido": 0.8061501637692113
+        }
+      ],
+      "pares": [
+        {
+          "t1": 0,
+          "t2": 1,
+          "sobreposicao": 0.9991035452131813,
+          "correlacao_I": 0.10554816954394185
+        },
+        {
+          "t1": 0,
+          "t2": 2,
+          "sobreposicao": 0.9987975776655517,
+          "correlacao_I": 0.07186774032961056
+        },
+        {
+          "t1": 0,
+          "t2": 3,
+          "sobreposicao": 0.9981921898856303,
+          "correlacao_I": 0.06421327840472642
+        },
+        {
+          "t1": 1,
+          "t2": 2,
+          "sobreposicao": 0.9993751698756901,
+          "correlacao_I": 0.09059742000937697
+        },
+        {
+          "t1": 1,
+          "t2": 3,
+          "sobreposicao": 0.998738217638718,
+          "correlacao_I": 0.07842907457188537
+        },
+        {
+          "t1": 2,
+          "t2": 3,
+          "sobreposicao": 0.9991003148897886,
+          "correlacao_I": 0.08218878947871865
+        }
+      ],
+      "decisao": "INDEFINIDO",
+      "figura": "C:\\Users\\chris\\D²NN-Stokes-CaII\\Outputs\\Figures\\cel78_nb_8542_2025-08-19T10_48_36_mo.png"
+    }
+  ]
+}

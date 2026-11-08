@@ -1,0 +1,998 @@
+{
+  "data": [
+    {
+      "arquivo": "nb_8542_2025-08-19T08_01_31_mosaic_0--3_stokes_corrected_export2026-05-14T12_14_55_im.fits",
+      "extensoes": [
+        {
+          "nome": "Main",
+          "tipo": "PrimaryHDU",
+          "forma": [
+            4,
+            4,
+            15,
+            2520,
+            2520
+          ]
+        },
+        {
+          "nome": "WCS-TAB",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "HPLN+HPLT+WAVE+TIME",
+              "960D",
+              "(4,2,2,15,4)"
+            ],
+            [
+              "HPLN-INDEX",
+              "2E",
+              "None"
+            ],
+            [
+              "HPLT-INDEX",
+              "2E",
+              "None"
+            ]
+          ]
+        },
+        {
+          "nome": "WCSDVARR",
+          "tipo": "ImageHDU",
+          "forma": [
+            4,
+            1,
+            1,
+            2520,
+            2520
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATE-BEG",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATE-BEG",
+              "1500A",
+              "(25,1,1,15,1,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATE-END",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATE-END",
+              "1500A",
+              "(25,1,1,15,1,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATE-AVG",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATE-AVG",
+              "1500A",
+              "(25,1,1,15,1,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-SCANNUM",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "SCANNUM",
+              "4J",
+              "(1,1,1,1,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATE-OBS",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATE-OBS",
+              "76A",
+              "(19,1,1,1,1,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-XPOSURE",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "XPOSURE",
+              "60E",
+              "(1,1,15,1,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-TEXPOSUR",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "TEXPOSUR",
+              "60E",
+              "(1,1,15,1,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-NSUMEXP",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "NSUMEXP",
+              "60J",
+              "(1,1,15,1,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-ATMOS_R0",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "ATMOS_R0",
+              "100E",
+              "(2,50)"
+            ],
+            [
+              "WFSZ-ATMOS_R0",
+              "2I",
+              "(1,2)"
+            ],
+            [
+              "TIME-ATMOS_R0",
+              "50D",
+              "(1,50)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-AO_LOCK",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "AO_LOCK",
+              "50E",
+              "None"
+            ],
+            [
+              "TIME-AO_LOCK",
+              "50D",
+              "(1,50)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-ELEV_ANG",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "ELEV_ANG",
+              "3E",
+              "None"
+            ],
+            [
+              "TIME-ELEV_ANG",
+              "3D",
+              "(1,3)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAMAD",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAMAD",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAKURT",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAKURT",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATASKEW",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATASKEW",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATANRMS",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATANRMS",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAMEAN",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAMEAN",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAMAX",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAMAX",
+              "240E",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAMIN",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAMIN",
+              "240E",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-NDATAPIX",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "NDATAPIX",
+              "240K",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP01",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP01",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP02",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP02",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP05",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP05",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP10",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP10",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP25",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP25",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAMEDN",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAMEDN",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP75",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP75",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP90",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP90",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP95",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP95",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP98",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP98",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP99",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP99",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        }
+      ],
+      "forma_numpy": [
+        4,
+        4,
+        15,
+        2520,
+        2520
+      ],
+      "eixos": {
+        "CTYPE1": "HPLN-TAB",
+        "CTYPE2": "HPLT-TAB",
+        "CTYPE3": "WAVE-TAB",
+        "CTYPE4": "STOKES",
+        "CTYPE5": "UTC--TAB"
+      },
+      "unidades": {
+        "CUNIT1": "arcsec",
+        "CUNIT2": "arcsec",
+        "CUNIT3": "nm",
+        "CUNIT4": null,
+        "CUNIT5": "s"
+      },
+      "chaves": {
+        "TELESCOP": "Swedish 1-meter Solar Telescope (SST)",
+        "INSTRUME": "CRISP2",
+        "OBJECT": "Sun",
+        "DATE-BEG": "2025-08-19T08:01:37.61735",
+        "DATE-AVG": "2025-08-19T08:02:14.84626",
+        "DATE-END": "2025-08-19T08:02:51.92575",
+        "DATEREF": "2025-08-19T00:00:00.000000",
+        "ATMOS_R0": 0.131,
+        "AO_LOCK": 0.9997,
+        "ELEV_ANG": 16.3407,
+        "SOLARNET": 1,
+        "BUNIT": "W m^-2 Hz^-1 sr^-1",
+        "WAVEUNIT": -9,
+        "XPOSURE": 0.768,
+        "TEXPOSUR": 0.012,
+        "NSUMEXP": 64.0,
+        "OBS_HDU": 1,
+        "RELEASE": "2026-04-02",
+        "RELEASEC": "ISF data. Please use these data with caution. It was the first campaign with the new CRISP2 instrument. It was realized later that there were several issues. 6173 A prefilter had FOV-dependent transmission profile. One of FP etalons  was tilted and most likely had a wedge which leads to a field dependent wavelength shift. Stokes Q, U and V frames in the cube were masked because polarimetry was bad at the edges of FOV."
+      },
+      "grade_lambda_mA": [
+        -656,
+        -506,
+        -356,
+        -281,
+        -206,
+        -131,
+        -56,
+        19,
+        94,
+        169,
+        244,
+        319,
+        394,
+        544,
+        694
+      ],
+      "grade_simetrica": true,
+      "grade_centro_mA": 18.687539999518776,
+      "passos": [
+        {
+          "t": 0,
+          "HPLN": -303.3237529469582,
+          "HPLT": -443.4626859113692,
+          "mu": 0.8238927052936461,
+          "tempo_inicio_s": 28897.8684,
+          "duracao_varredura_s": 13.0920100000003
+        },
+        {
+          "t": 1,
+          "HPLN": -222.3329105251491,
+          "HPLT": -443.64960743025534,
+          "mu": 0.8520484998047925,
+          "tempo_inicio_s": 28918.70286,
+          "duracao_varredura_s": 12.981229999997595
+        },
+        {
+          "t": 2,
+          "HPLN": -222.1335871799255,
+          "HPLT": -363.3035288981435,
+          "mu": 0.8934363868251861,
+          "tempo_inicio_s": 28938.11357,
+          "duracao_varredura_s": 13.04504999999699
+        },
+        {
+          "t": 3,
+          "HPLN": -303.53214534190073,
+          "HPLT": -362.8008642640731,
+          "mu": 0.8666160857109307,
+          "tempo_inicio_s": 28958.70149,
+          "duracao_varredura_s": 12.974819999999454
+        }
+      ],
+      "separacao_max_arcsec": 57.42067382047043,
+      "salto_mediano_arcsec": 80.99105812278624,
+      "tipo": "MOSAICO",
+      "passo_entre_varreduras_s": 20.58791999999812
+    },
+    {
+      "arquivo": "nb_8542_2025-08-19T10_48_36_mosaic_0--3_stokes_corrected_export2026-05-14T12_15_56_im.fits",
+      "extensoes": [
+        {
+          "nome": "Main",
+          "tipo": "PrimaryHDU",
+          "forma": [
+            4,
+            4,
+            15,
+            2519,
+            2520
+          ]
+        },
+        {
+          "nome": "WCS-TAB",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "HPLN+HPLT+WAVE+TIME",
+              "960D",
+              "(4,2,2,15,4)"
+            ],
+            [
+              "HPLN-INDEX",
+              "2E",
+              "None"
+            ],
+            [
+              "HPLT-INDEX",
+              "2E",
+              "None"
+            ]
+          ]
+        },
+        {
+          "nome": "WCSDVARR",
+          "tipo": "ImageHDU",
+          "forma": [
+            4,
+            1,
+            1,
+            2519,
+            2520
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATE-BEG",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATE-BEG",
+              "1500A",
+              "(25,1,1,15,1,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATE-END",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATE-END",
+              "1500A",
+              "(25,1,1,15,1,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATE-AVG",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATE-AVG",
+              "1500A",
+              "(25,1,1,15,1,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-SCANNUM",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "SCANNUM",
+              "4J",
+              "(1,1,1,1,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATE-OBS",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATE-OBS",
+              "76A",
+              "(19,1,1,1,1,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-XPOSURE",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "XPOSURE",
+              "60E",
+              "(1,1,15,1,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-TEXPOSUR",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "TEXPOSUR",
+              "60E",
+              "(1,1,15,1,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-NSUMEXP",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "NSUMEXP",
+              "60J",
+              "(1,1,15,1,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-ATMOS_R0",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "ATMOS_R0",
+              "332E",
+              "(2,166)"
+            ],
+            [
+              "WFSZ-ATMOS_R0",
+              "2I",
+              "(1,2)"
+            ],
+            [
+              "TIME-ATMOS_R0",
+              "166D",
+              "(1,166)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-AO_LOCK",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "AO_LOCK",
+              "166E",
+              "None"
+            ],
+            [
+              "TIME-AO_LOCK",
+              "166D",
+              "(1,166)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-ELEV_ANG",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "ELEV_ANG",
+              "6E",
+              "None"
+            ],
+            [
+              "TIME-ELEV_ANG",
+              "6D",
+              "(1,6)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAMAD",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAMAD",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAKURT",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAKURT",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATASKEW",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATASKEW",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATANRMS",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATANRMS",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAMEAN",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAMEAN",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAMAX",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAMAX",
+              "240E",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAMIN",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAMIN",
+              "240E",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-NDATAPIX",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "NDATAPIX",
+              "240K",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP01",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP01",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP02",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP02",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP05",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP05",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP10",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP10",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP25",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP25",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAMEDN",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAMEDN",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP75",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP75",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP90",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP90",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP95",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP95",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP98",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP98",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        },
+        {
+          "nome": "VAR-EXT-DATAP99",
+          "tipo": "BinTableHDU",
+          "colunas": [
+            [
+              "DATAP99",
+              "240D",
+              "(1,1,15,4,4)"
+            ]
+          ]
+        }
+      ],
+      "forma_numpy": [
+        4,
+        4,
+        15,
+        2519,
+        2520
+      ],
+      "eixos": {
+        "CTYPE1": "HPLN-TAB",
+        "CTYPE2": "HPLT-TAB",
+        "CTYPE3": "WAVE-TAB",
+        "CTYPE4": "STOKES",
+        "CTYPE5": "UTC--TAB"
+      },
+      "unidades": {
+        "CUNIT1": "arcsec",
+        "CUNIT2": "arcsec",
+        "CUNIT3": "nm",
+        "CUNIT4": null,
+        "CUNIT5": "s"
+      },
+      "chaves": {
+        "TELESCOP": "Swedish 1-meter Solar Telescope (SST)",
+        "INSTRUME": "CRISP2",
+        "OBJECT": "Sun",
+        "DATE-BEG": "2025-08-19T10:52:54.51690",
+        "DATE-AVG": "2025-08-19T10:54:26.53620",
+        "DATE-END": "2025-08-19T10:56:11.50786",
+        "DATEREF": "2025-08-19T00:00:00.000000",
+        "ATMOS_R0": 0.0623259,
+        "AO_LOCK": 0.803548,
+        "ELEV_ANG": 53.6625,
+        "SOLARNET": 1,
+        "BUNIT": "W m^-2 Hz^-1 sr^-1",
+        "WAVEUNIT": -9,
+        "XPOSURE": 0.768,
+        "TEXPOSUR": 0.012,
+        "NSUMEXP": 64.0,
+        "OBS_HDU": 1,
+        "RELEASE": "2026-04-02",
+        "RELEASEC": "ISF data. Please use these data with caution. It was the first campaign with the new CRISP2 instrument. It was realized later that there were several issues. 6173 A prefilter had FOV-dependent transmission profile. One of FP etalons  was tilted and most likely had a wedge which leads to a field dependent wavelength shift. Stokes Q, U and V frames in the cube were masked because polarimetry was bad at the edges of FOV."
+      },
+      "grade_lambda_mA": [
+        -656,
+        -506,
+        -356,
+        -281,
+        -206,
+        -131,
+        -56,
+        19,
+        94,
+        169,
+        244,
+        319,
+        394,
+        544,
+        694
+      ],
+      "grade_simetrica": true,
+      "grade_centro_mA": 18.687539999518776,
+      "passos": [
+        {
+          "t": 0,
+          "HPLN": -277.96052386606084,
+          "HPLT": -432.25315972115584,
+          "mu": 0.8403136277380547,
+          "tempo_inicio_s": 39174.76633,
+          "duracao_varredura_s": 13.024640000003274
+        },
+        {
+          "t": 1,
+          "HPLN": -196.38870057943416,
+          "HPLT": -432.83110836652537,
+          "mu": 0.8652314581351517,
+          "tempo_inicio_s": 39236.23044,
+          "duracao_varredura_s": 13.243240000003425
+        },
+        {
+          "t": 2,
+          "HPLN": -196.59109519225385,
+          "HPLT": -352.8085302474092,
+          "mu": 0.9047055063984203,
+          "tempo_inicio_s": 39271.03912,
+          "duracao_varredura_s": 13.031380000000354
+        },
+        {
+          "t": 3,
+          "HPLN": -276.53556263255155,
+          "HPLT": -351.7794638314045,
+          "mu": 0.8815961268752274,
+          "tempo_inicio_s": 39357.98009,
+          "duracao_varredura_s": 13.278340000004391
+        }
+      ],
+      "separacao_max_arcsec": 57.230677794120936,
+      "salto_mediano_arcsec": 80.02283406884158,
+      "tipo": "MOSAICO",
+      "passo_entre_varreduras_s": 61.4641100000008
+    }
+  ]
+}

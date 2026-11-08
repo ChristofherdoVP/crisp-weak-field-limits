@@ -1,0 +1,247 @@
+{
+  "data": [
+    {
+      "arquivo": "nb_8542_2025-08-19T08_01_31_mosaic_0--3_stokes_corrected_export2026-05-14T12_14_55_im.fits",
+      "eps_V": 0.00236,
+      "posicoes": [
+        {
+          "t": 0,
+          "quadros_excluidos": [
+            2,
+            4,
+            10,
+            12
+          ],
+          "s_G": 10.963898063988845,
+          "a50_G": 21.489240205418135,
+          "K_G_por_alfa": -632.1906379509556,
+          "P95_abs_delta_G": 2.8494944249307643,
+          "razao_P95_s": 0.2598979312193707,
+          "delta_mediana_G": 0.058817952306611423,
+          "delta_p05_p95_G": [
+            -2.4550462360667615,
+            1.8188765907136442
+          ],
+          "a_mediana_antes_G": -3.67375109067149,
+          "a_mediana_depois_G": -3.7412239838028594,
+          "sigma_a_antes_G": 24.707123111835177,
+          "sigma_a_depois_G": 24.752432829395616,
+          "estrutura_suave_antes_G": 14.972025825151693,
+          "estrutura_suave_depois_G": 15.437093085793176,
+          "passa_limiar": true,
+          "estrutura_diminui": false
+        },
+        {
+          "t": 1,
+          "quadros_excluidos": [
+            6,
+            8
+          ],
+          "s_G": 9.640828742745683,
+          "a50_G": 18.896024335781537,
+          "K_G_por_alfa": 20.294515953915877,
+          "P95_abs_delta_G": 2.8756826262059056,
+          "razao_P95_s": 0.2982816833428076,
+          "delta_mediana_G": 0.08750025368204703,
+          "delta_p05_p95_G": [
+            -1.2551836391495705,
+            2.5250909280168385
+          ],
+          "a_mediana_antes_G": 5.350571910952545,
+          "a_mediana_depois_G": 5.031659095834372,
+          "sigma_a_antes_G": 18.73460971501331,
+          "sigma_a_depois_G": 18.684175709624427,
+          "estrutura_suave_antes_G": 7.877787671489203,
+          "estrutura_suave_depois_G": 7.8222867767435025,
+          "passa_limiar": true,
+          "estrutura_diminui": true
+        },
+        {
+          "t": 2,
+          "quadros_excluidos": [],
+          "s_G": 8.978052058512471,
+          "a50_G": 17.596982034684444,
+          "K_G_por_alfa": -271.73727670837536,
+          "P95_abs_delta_G": 2.559347386299082,
+          "razao_P95_s": 0.2850671136254391,
+          "delta_mediana_G": 0.003472385931991389,
+          "delta_p05_p95_G": [
+            -1.8562076341369849,
+            1.9237221600012913
+          ],
+          "a_mediana_antes_G": -8.234031170921053,
+          "a_mediana_depois_G": -8.169978509734326,
+          "sigma_a_antes_G": 19.56826863927615,
+          "sigma_a_depois_G": 19.575830339158927,
+          "estrutura_suave_antes_G": 8.718614903687623,
+          "estrutura_suave_depois_G": 8.647195826563237,
+          "passa_limiar": true,
+          "estrutura_diminui": true
+        },
+        {
+          "t": 3,
+          "quadros_excluidos": [],
+          "s_G": 8.795802245267,
+          "a50_G": 17.239772400723318,
+          "K_G_por_alfa": -353.5422101239842,
+          "P95_abs_delta_G": 2.2603619402146373,
+          "razao_P95_s": 0.25698189627113693,
+          "delta_mediana_G": 0.023224398400416263,
+          "delta_p05_p95_G": [
+            -1.6862500403644556,
+            1.8209822158798685
+          ],
+          "a_mediana_antes_G": -0.2767432973833149,
+          "a_mediana_depois_G": -0.2832413771701336,
+          "sigma_a_antes_G": 18.343205609404006,
+          "sigma_a_depois_G": 18.25872984022362,
+          "estrutura_suave_antes_G": 9.17785215100365,
+          "estrutura_suave_depois_G": 9.002513516804596,
+          "passa_limiar": true,
+          "estrutura_diminui": true
+        }
+      ],
+      "lambda_A": [
+        8541.43368754,
+        8541.58368754,
+        8541.73368754,
+        8541.80868754,
+        8541.88368754,
+        8541.95868754,
+        8542.03368754,
+        8542.10868754,
+        8542.18368754,
+        8542.25868754,
+        8542.33368754,
+        8542.408687539999,
+        8542.48368754,
+        8542.63368754,
+        8542.783687539999
+      ],
+      "n_posicoes_acima": 4,
+      "decisao": "CORREÇÃO NECESSÁRIA",
+      "n_posicoes_estrutura_diminui": 3,
+      "validacao": "CORREÇÃO ACEITA"
+    },
+    {
+      "arquivo": "nb_8542_2025-08-19T10_48_36_mosaic_0--3_stokes_corrected_export2026-05-14T12_15_56_im.fits",
+      "eps_V": 0.0022,
+      "posicoes": [
+        {
+          "t": 0,
+          "quadros_excluidos": [],
+          "s_G": 8.248000261970924,
+          "a50_G": 16.16608051346301,
+          "K_G_por_alfa": -281.5329658498286,
+          "P95_abs_delta_G": 2.189798393663994,
+          "razao_P95_s": 0.2654944621862469,
+          "delta_mediana_G": 0.054316619797933105,
+          "delta_p05_p95_G": [
+            -1.4771382139116551,
+            1.6837376480181057
+          ],
+          "a_mediana_antes_G": -2.0127470006290427,
+          "a_mediana_depois_G": -2.1979055824769036,
+          "sigma_a_antes_G": 21.518488042082367,
+          "sigma_a_depois_G": 21.234115505032946,
+          "estrutura_suave_antes_G": 16.60428784691634,
+          "estrutura_suave_depois_G": 16.02792650259212,
+          "passa_limiar": true,
+          "estrutura_diminui": true
+        },
+        {
+          "t": 1,
+          "quadros_excluidos": [],
+          "s_G": 8.184670301611003,
+          "a50_G": 16.041953791157567,
+          "K_G_por_alfa": -299.76300041358644,
+          "P95_abs_delta_G": 2.588008400009813,
+          "razao_P95_s": 0.31620191218947585,
+          "delta_mediana_G": 0.022251814379065565,
+          "delta_p05_p95_G": [
+            -1.8882693195405647,
+            1.9908484815771832
+          ],
+          "a_mediana_antes_G": 2.3297102689702,
+          "a_mediana_depois_G": 2.243306617136967,
+          "sigma_a_antes_G": 17.132888511527987,
+          "sigma_a_depois_G": 17.001419124129132,
+          "estrutura_suave_antes_G": 9.502269272976383,
+          "estrutura_suave_depois_G": 9.181571972209543,
+          "passa_limiar": true,
+          "estrutura_diminui": true
+        },
+        {
+          "t": 2,
+          "quadros_excluidos": [
+            4,
+            6,
+            8,
+            10
+          ],
+          "s_G": 11.452982968533371,
+          "a50_G": 22.447846618325407,
+          "K_G_por_alfa": -61.638619464308405,
+          "P95_abs_delta_G": 3.030221867801003,
+          "razao_P95_s": 0.2645792695340961,
+          "delta_mediana_G": 0.0015235844792801947,
+          "delta_p05_p95_G": [
+            -2.236826524742796,
+            2.2747330636219227
+          ],
+          "a_mediana_antes_G": -6.253826539371724,
+          "a_mediana_depois_G": -6.215357012904471,
+          "sigma_a_antes_G": 20.749026811945658,
+          "sigma_a_depois_G": 20.678837037499076,
+          "estrutura_suave_antes_G": 7.471185893077467,
+          "estrutura_suave_depois_G": 7.1878849374130604,
+          "passa_limiar": true,
+          "estrutura_diminui": true
+        },
+        {
+          "t": 3,
+          "quadros_excluidos": [],
+          "s_G": 8.17698322355224,
+          "a50_G": 16.02688711816239,
+          "K_G_por_alfa": -306.1977615680012,
+          "P95_abs_delta_G": 2.560961538406719,
+          "razao_P95_s": 0.31319148742171293,
+          "delta_mediana_G": -0.0026822075077681615,
+          "delta_p05_p95_G": [
+            -2.2413741824537876,
+            1.3818716971622274
+          ],
+          "a_mediana_antes_G": 1.0419172363426417,
+          "a_mediana_depois_G": 1.2271368891936636,
+          "sigma_a_antes_G": 17.411593876971107,
+          "sigma_a_depois_G": 17.232753186529052,
+          "estrutura_suave_antes_G": 8.412913645375788,
+          "estrutura_suave_depois_G": 8.133598226373037,
+          "passa_limiar": true,
+          "estrutura_diminui": true
+        }
+      ],
+      "lambda_A": [
+        8541.43368754,
+        8541.58368754,
+        8541.73368754,
+        8541.80868754,
+        8541.88368754,
+        8541.95868754,
+        8542.03368754,
+        8542.10868754,
+        8542.18368754,
+        8542.25868754,
+        8542.33368754,
+        8542.408687539999,
+        8542.48368754,
+        8542.63368754,
+        8542.783687539999
+      ],
+      "n_posicoes_acima": 4,
+      "decisao": "CORREÇÃO NECESSÁRIA",
+      "n_posicoes_estrutura_diminui": 4,
+      "validacao": "CORREÇÃO ACEITA"
+    }
+  ]
+}

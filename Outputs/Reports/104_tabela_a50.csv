@@ -1,0 +1,8 @@
+conjunto,tipo,a50_uma_varredura_G,a50_media_G,N_media,a50_N11_G,observacao
+CRISP grade do B,previsto,47.5,,,14.3,Tabela 2 do B (branqueado)
+CRISP grade real,previsto,44.9,,,13.5,eps=3.26e-03
+CRISP2 grade real,previsto,34.7,,,10.5,eps=2.28e-03 p=0.71
+CRISP 20241008T094951,medido,36.4,9.5,14,10.7,z_c=2.10/2.05
+CRISP 20241008T101050,medido,54.3,16.6,10,15.8,z_c=2.20/2.12
+CRISP2 20250819T080131,medido,21.4-21.8,,,,z=1.96 (z_c não medido)
+CRISP2 20250819T104836,medido,18.1-18.2,,,,z=1.96 (z_c não medido)
