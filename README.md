@@ -2,11 +2,11 @@
 
 Code and reports for the paper
 
-> *Weak-field detection limits of Ca II 854.2 nm with CRISP and CRISP2: a synthetic model validated against SST observations*, by C. do Vale Pena, F. L. Guarnieri and L. E. A. Vieira.
+> *Weak-field detection limits of Ca II 854.2 nm with CRISP and CRISP2: a synthetic model validated against SST observations*, by C. do Vale Pena.
 
 The code builds a synthetic model of Ca II 854.2 nm weak-field Stokes V profiles, degraded by instrument models of CRISP and CRISP2 (Swedish 1-m Solar Telescope), and computes the detection limit a₅₀ of a weighted weak-field matched filter at a 5% false-alarm probability. It then tests the model against CRISP (2024-10-08) and CRISP2 (2025-08-19) observations: noise, I→V crosstalk, map noise, temporal averaging, the region where the weak-field maps are quantitative, and measured versus predicted detection limits.
 
-The synthetic model and the estimator were introduced in a companion paper (do Vale Pena et al. 2026; code at https://github.com/ChristofherdoVP/d2nn-matched-filter-limits). `Src/physics.py` is that model, unchanged; `Src/physics_v3.py` replaces only the line core, fitted to the FTS atlas.
+The synthetic model and the estimator were introduced in a companion paper (do Vale Pena 2026; code at https://github.com/ChristofherdoVP/d2nn-matched-filter-limits). `Src/physics.py` is that model, unchanged; `Src/physics_v3.py` replaces only the line core, fitted to the FTS atlas.
 
 ## Requirements
 
